@@ -1,7 +1,7 @@
 ---
 name: Invalid image report
 about: Create a report to help us improve
-title: "[Invalid Image] "
+title: ''
 labels: Invalid image
 assignees: skotlex
 
