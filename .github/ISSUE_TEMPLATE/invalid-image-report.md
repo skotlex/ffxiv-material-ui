@@ -2,7 +2,7 @@
 name: Invalid image report
 about: Create a report to help us improve
 title: "[Invalid Image] "
-labels: bug
+labels: Invalid image
 assignees: skotlex
 
 ---
