@@ -15,15 +15,17 @@ There are two kinds, the concepts for each theme are as follows:
 
 1. Back up the following files in advance before you work *(This is a preparation for mode failure)*
 
-| path | {Folder with ff14 installed}\game\sqpack\ffxiv |   |
-|---|---|---|
-|   | 010000.win32.index | 010000.win32.index2 |
-|   | 040000.win32.index | 040000.win32.index2 |
-|   | 060000.win32.index | 060000.win32.index2 |
+**path**: {Folder with ff14 installed}\game\sqpack\ffxiv
+
+| Filelist |   |
+|---|---|
+| 010000.win32.index | 010000.win32.index2 |
+| 040000.win32.index | 040000.win32.index2 |
+| 060000.win32.index | 060000.win32.index2 |
 
 2. Download and install FFXIV TexTools
 
-*TEXTOOLS VERSION 2.0.6 OR HIGHER IS REQUIRED*
+***TEXTOOLS VERSION 2.0.6 OR HIGHER IS REQUIRED***
 
 | Program name  | Download page |
 |---|---|
