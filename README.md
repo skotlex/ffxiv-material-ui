@@ -11,6 +11,12 @@ There are two kinds, the concepts for each theme are as follows:
 1. **Discord**: Discord color imitates the model of the default UI
 2. **Black**: Targeting black color, square UI
 
+## Preview
+
+There's also a lot of other things that's changed. Check out the in-game!
+
+![preview](Discord/preview.png)
+
 ## Installing the mod
 
 1. Download and install FFXIV TexTools
