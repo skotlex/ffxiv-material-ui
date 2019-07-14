@@ -72,7 +72,7 @@ Not currently. It's not that there's no way out, but it's not very encouraging. 
 
 ## Special thanks
 
-I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. His creativity always stimulates me. And most of all, I would like to thank everyone who uses this UI.
+I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. And most of all, I would like to thank everyone who uses this UI.
 
 ## Credit / Support
 
