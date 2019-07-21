@@ -80,6 +80,8 @@ This mod was created by *skotlex* and help of all testers.
 
 If you like my work and want to support it, you can do it [here](https://ko-fi.com/skotlex). Of course, there is no coercion in this sponsorship, and it's just your choice.
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O8YTN7)
+
 ## Contacts
 
 If you want to ask me something, I am willing to talk. 
