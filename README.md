@@ -17,7 +17,7 @@ There's also a lot of other things that's changed. Check out the in-game!
 
 ![preview](Discord/preview.png)
 
-## Mods Download
+## Mods Downloads
 
 Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
