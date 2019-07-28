@@ -17,6 +17,10 @@ There's also a lot of other things that's changed. Check out the in-game!
 
 ![preview](Discord/preview.png)
 
+## Mods Downloads
+
+Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
+
 ## Installing the mod
 
 1. Download and install FFXIV TexTools
