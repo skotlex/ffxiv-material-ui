@@ -11,6 +11,10 @@ There are two kinds, the concepts for each theme are as follows:
 1. **Discord**: Discord color with default UI concept
 2. **Black**: Targeting modern dark color, Edged UI
 
+## Mod Downloads
+
+Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
+
 ## Preview
 
 There's also a lot of other things that's changed. Check out the in-game!
@@ -20,10 +24,6 @@ There's also a lot of other things that's changed. Check out the in-game!
 
 ### Black
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
-
-## Mod Downloads
-
-Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
 ## Installing the mod
 
