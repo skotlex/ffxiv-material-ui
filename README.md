@@ -8,16 +8,20 @@ Material UI replaces FFXIV's built-in theme (dark-theme)
 
 There are two kinds, the concepts for each theme are as follows:
 
-1. **Discord**: Discord color imitates the model of the default UI
-2. **Black**: Targeting black color, square UI
+1. **Discord**: Discord color with default UI concept
+2. **Black**: Targeting modern dark color, Edged UI
 
 ## Preview
 
 There's also a lot of other things that's changed. Check out the in-game!
 
-![preview](Discord/preview.png)
+### Discord
+![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
 
-## Mods Downloads
+### Black
+![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
+
+## Mod Downloads
 
 Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
@@ -35,7 +39,7 @@ Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releas
 
 Hit [Help → Backup Index Files] menu. 
 
-**Source index-path**: {Folder with ff14 installed}\game\sqpack\ffxiv
+**Source index-path**: `{Folder with ff14 installed}\game\sqpack\ffxiv`
 
 | File list |   |
 |---|---|
@@ -53,9 +57,9 @@ Select and apply(import modpack) the *Material UI.ttmp2* file from the *[Mods �
 
 After a patch is received, the mod may be disabled. In case of this, you'll take the steps below.
 
-1. Hit [Help → Start Over]
+1. Hit `[Help → Start Over]`
 2. Download new FFXIV patch
-3. Hit [Help → Backup Index Files]
+3. Hit `[Help → Backup Index Files]`
 4. Import Material-UI mod
 
 If you fail to back up the index files for any reason, you can download them from my github. [download link](https://github.com/skotlex/ffxiv-material-ui/tree/master/Discord/Index_Backups)
@@ -65,10 +69,6 @@ If you fail to back up the index files for any reason, you can download them fro
 Use of this program is at your own risk. Square Enix does not permit the use of any third party tools, even those which do not modify the game. They have stated in interviews that they did not view parsers as a significant problem unless players use them to harass other players
 
 ## FAQ
-
-**When will the black version be released?**
-
-I'm very sorry if you're waiting for the black version. After the launch of Material UI(Discord), I will prepare for the "Eden Raid". Therefore, I will temporarily suspend development until the middle of August.
 
 **Can you change the color of the HP/MP/Gauge bars?**
 
