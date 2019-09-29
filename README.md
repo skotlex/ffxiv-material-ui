@@ -49,23 +49,23 @@ There's also a lot of other things that's changed. Check out the in-game!
 <details>
 <summary>Click to expand</summary>
 
-- gradation gauge bar color
+- **gradation gauge bar color**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/gradation-gauge-bar-color/preview.png)
 
-- limit break simple
+- **limit break simple**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/limit-break-simple/preview.png)
 
-- party shield purple color
+- **party shield purple color**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/party-shield-purple-color/preview.png)
 
-- range dps job icon color
+- **range dps job icon color**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/range-dps-job-icon-color/preview.png)
 
-- target castbar red color
+- **target castbar red color**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/target-castbar-red-color/preview.png)
 
@@ -75,23 +75,23 @@ There's also a lot of other things that's changed. Check out the in-game!
 <details>
 <summary>Click to expand</summary>
 
-- minimap remove NSEW
+- **minimap remove NSEW**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/minimap-remove-NSEW/preview.png)
 
-- removed button background
+- **removed button background**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/removed-button-background/preview.png)
 
-- selected window border
+- **selected window border**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/selected-window-border/preview.png)
 
-- square minimap
+- **square minimap**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/square-minimap/preview.png)
 
-- transparency window
+- **transparency window**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/transparency-window/preview.png)
 
@@ -101,23 +101,23 @@ There's also a lot of other things that's changed. Check out the in-game!
 <details>
 <summary>Click to expand</summary>
 
-- circle minimap
+- **circle minimap**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/circle-minimap/preview.png)
 
-- minimap remove NSEW
+- **minimap remove NSEW**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/minimap-remove-NSEW/preview.png)
 
-- selected window border
+- **selected window border**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/selected-window-border/preview.png)
 
-- talk dialog grey color
+- **talk dialog grey color**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/talk-dialog-grey-color/preview.png)
 
-- transparency window
+- **transparency window**
 
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/transparency-window/preview.png)
 
