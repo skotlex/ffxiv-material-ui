@@ -5,15 +5,15 @@
 ## Contents
 
 1. [Intro](#intro)  
-2. [Mod Downloads](#mod-downloads)  
-3. [Preview Mods](#preview-mods)  
+2. [Mod downloads](#mod-downloads)  
+3. [Preview mods](#preview-mods)  
 4. [Preview options](#preview-options)
 5. [Installing the mod](#installing-the-mod)  
 6. [What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches)  
 7. [Disclaimers](#disclaimers)  
 8. [FAQ](#faq)  
-9. [Special Thanks](#special-thanks)  
-10. [Credit and Support](#credit-and-support)  
+9. [Special thanks](#special-thanks)  
+10. [Credit and support](#credit-and-support)  
 11. [Contacts](#contacts)
 
 
@@ -26,11 +26,11 @@ There are two kinds, the concepts for each theme are as follows:
 1. **Discord**: Discord color with default UI concept
 2. **Black**: Targeting modern dark color, Edged UI
 
-## Mod Downloads
+## Mod downloads
 
 Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
-## Preview Mods
+## Preview mods
 
 There's also a lot of other things that's changed. Check out the in-game!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
@@ -176,7 +176,7 @@ Not currently. It's not that there's no way out, but it's not very encouraging. 
 
 I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. And most of all, I would like to thank everyone who uses this UI.
 
-## Credit and Support
+## Credit and support
 
 This mod was created by *skotlex* and help of all testers. 
 
