@@ -4,16 +4,16 @@
 
 ## Contents
 
-[-> Intro](#intro)
-[-> Mod Downloads](#mod-downloads)
-[-> Preview](#preview)
-[-> Installing the mod](#installing-the-mod)
-[-> What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches]
-[-> Disclaimers](#disclaimers)
-[-> FAQ](#faq)
-[-> Special Thanks](#special-thanks)
-[-> Credit / Support](#credit-\/-support)
-[-> Contacts](#contacts)
+[01. Intro](#intro)  
+[02. Mod Downloads](#mod-downloads)  
+[03. Preview](#preview)  
+[04. Installing the mod](#installing-the-mod)  
+[05. What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches)  
+[06. Disclaimers](#disclaimers)  
+[07. FAQ](#faq)  
+[08. Special Thanks](#special-thanks)  
+[09. Credit and Support](#credit-and-support)  
+[10. Contacts](#contacts)
 
 
 ## Intro
@@ -92,7 +92,7 @@ Not currently. It's not that there's no way out, but it's not very encouraging. 
 
 I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. And most of all, I would like to thank everyone who uses this UI.
 
-## Credit / Support
+## Credit and Support
 
 This mod was created by *skotlex* and help of all testers. 
 
