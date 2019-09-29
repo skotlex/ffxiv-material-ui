@@ -2,6 +2,20 @@
 
 *※ The document was written using a translator. Please excuse me even if the context is a little strange.*
 
+## Contents
+
+[-> Intro](#intro)
+[-> Mod Downloads](#mod-downloads)
+[-> Preview](#preview)
+[-> Installing the mod](#installing-the-mod)
+[-> What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches]
+[-> Disclaimers](#disclaimers)
+[-> FAQ](#faq)
+[-> Special Thanks](#special-thanks)
+[-> Credit / Support](#credit-\/-support)
+[-> Contacts](#contacts)
+
+
 ## Intro
 
 Material UI replaces FFXIV's built-in theme (dark-theme)
