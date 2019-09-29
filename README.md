@@ -32,7 +32,8 @@ Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releas
 
 ## Preview Mods
 
-There's also a lot of other things that's changed. Check out the in-game!
+There's also a lot of other things that's changed. Check out the in-game!  
+<b><i>※ All images can be viewed as original when clicked</i></b>
 
 ### Discord
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
@@ -41,6 +42,8 @@ There's also a lot of other things that's changed. Check out the in-game!
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
 
 ## Preview Options
+
+<b><i>※ All images can be viewed as original when clicked</i></b>
 
 ### Common
 <details>
