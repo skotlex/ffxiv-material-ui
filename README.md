@@ -41,7 +41,7 @@ There's also a lot of other things that's changed. Check out the in-game!
 ### Black
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
 
-## Preview Options
+## Preview options
 
 <b><i>※ All images can be viewed as original when clicked</i></b>
 
