@@ -7,7 +7,7 @@
 1. [Intro](#intro)  
 2. [Mod Downloads](#mod-downloads)  
 3. [Preview Mods](#preview-mods)  
-4. [Preview Options](#preview-options)
+4. [Preview options](#preview-options)
 5. [Installing the mod](#installing-the-mod)  
 6. [What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches)  
 7. [Disclaimers](#disclaimers)  
