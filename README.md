@@ -16,7 +16,7 @@
 [10. Contacts](#contacts)
 
 
-## Intro
+## 01. Intro
 
 Material UI replaces FFXIV's built-in theme (dark-theme)
 
@@ -25,11 +25,11 @@ There are two kinds, the concepts for each theme are as follows:
 1. **Discord**: Discord color with default UI concept
 2. **Black**: Targeting modern dark color, Edged UI
 
-## Mod Downloads
+## 02. Mod Downloads
 
 Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
-## Preview
+## 03. Preview
 
 There's also a lot of other things that's changed. Check out the in-game!
 
@@ -39,7 +39,7 @@ There's also a lot of other things that's changed. Check out the in-game!
 ### Black
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
 
-## Installing the mod
+## 04. Installing the mod
 
 1. Download and install FFXIV TexTools
 
@@ -67,7 +67,7 @@ Select and apply(import modpack) the *Material UI.ttmp2* file from the *[Mods â†
 
 4. Enjoy!
 
-## What to do for new FFXIV patches
+## 05. What to do for new FFXIV patches
 
 After a patch is received, the mod may be disabled. In case of this, you'll take the steps below.
 
@@ -78,21 +78,21 @@ After a patch is received, the mod may be disabled. In case of this, you'll take
 
 If you fail to back up the index files for any reason, you can download them from my github. [download link](https://github.com/skotlex/ffxiv-material-ui/tree/master/Discord/Index_Backups)
 
-## Disclaimers
+## 06. Disclaimers
 
 Use of this program is at your own risk. Square Enix does not permit the use of any third party tools, even those which do not modify the game. They have stated in interviews that they did not view parsers as a significant problem unless players use them to harass other players
 
-## FAQ
+## 07. FAQ
 
 **Can you change the color of the HP/MP/Gauge bars?**
 
 Not currently. It's not that there's no way out, but it's not very encouraging. More than anything else, you can't get the color you want perfectly.
 
-## Special thanks
+## 08. Special thanks
 
 I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. And most of all, I would like to thank everyone who uses this UI.
 
-## Credit and Support
+## 09. Credit and Support
 
 This mod was created by *skotlex* and help of all testers. 
 
@@ -100,7 +100,7 @@ If you like my work and want to support it, you can do it [here](https://ko-fi.c
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O8YTN7)
 
-## Contacts
+## 10. Contacts
 
 If you want to ask me something, I am willing to talk. 
 
