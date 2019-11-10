@@ -41,6 +41,9 @@ There's also a lot of other things that's changed. Check out the in-game!
 ### Black
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
 
+### Simple JobHud bar
+![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
+
 ## Preview options
 
 <b><i>※ All images can be viewed as original when clicked</i></b>
@@ -127,7 +130,7 @@ There's also a lot of other things that's changed. Check out the in-game!
 
 1. Download and install FFXIV TexTools
 
-***TEXTOOLS VERSION 2.0.6 OR HIGHER IS REQUIRED***
+***TEXTOOLS VERSION 2.0.8 OR HIGHER IS REQUIRED***
 
 | Program name  | Download page |
 |---|---|
