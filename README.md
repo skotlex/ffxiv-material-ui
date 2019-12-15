@@ -7,7 +7,7 @@
 1. [Intro](#intro)  
 2. [Mod downloads](#mod-downloads)  
 3. [Preview mods](#preview-mods)  
-4. [Preview options](#preview-options)
+4. <s>[Preview options](#preview-options)</s>
 5. [Installing the mod](#installing-the-mod)  
 6. [What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches)  
 7. [Disclaimers](#disclaimers)  
@@ -44,93 +44,18 @@ There's also a lot of other things that's changed. Check out the in-game!
 ### Simple JobHud bar
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
 
+### Mappack
+![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
+
 ## Preview options
 
-<b><i>※ All images can be viewed as original when clicked</i></b>
-
-### Common
-<details>
-<summary>Click to expand</summary>
-
-- **gradation gauge bar color**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/gradation-gauge-bar-color/preview.png)
-
-- **limit break simple**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/limit-break-simple/preview.png)
-
-- **party shield purple color**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/party-shield-purple-color/preview.png)
-
-- **range dps job icon color**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/range-dps-job-icon-color/preview.png)
-
-- **target castbar red color**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Common/target-castbar-red-color/preview.png)
-
-</details>
-
-### Discord
-<details>
-<summary>Click to expand</summary>
-
-- **minimap remove NSEW**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/minimap-remove-NSEW/preview.png)
-
-- **removed button background**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/removed-button-background/preview.png)
-
-- **selected window border**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/selected-window-border/preview.png)
-
-- **square minimap**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/square-minimap/preview.png)
-
-- **transparency window**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Discord/transparency-window/preview.png)
-
-</details>
-
-### Black
-<details>
-<summary>Click to expand</summary>
-
-- **circle minimap**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/circle-minimap/preview.png)
-
-- **minimap remove NSEW**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/minimap-remove-NSEW/preview.png)
-
-- **selected window border**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/selected-window-border/preview.png)
-
-- **talk dialog grey color**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/talk-dialog-grey-color/preview.png)
-
-- **transparency window**
-
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/Black/transparency-window/preview.png)
-
-</details>
+<b><i>※ I working on it now. Please wait :p</i></b>
 
 ## Installing the mod
 
 1. Download and install FFXIV TexTools
 
-***TEXTOOLS VERSION 2.0.8 OR HIGHER IS REQUIRED***
+***TEXTOOLS VERSION 2.1.0 OR HIGHER IS REQUIRED***
 
 | Program name  | Download page |
 |---|---|
