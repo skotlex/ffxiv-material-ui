@@ -28,11 +28,11 @@ There are two kinds, the concepts for each theme are as follows:
 
 ## Mod downloads
 
-Download Link: [Click to me](https://github.com/skotlex/ffxiv-material-ui/releases)
+Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
 ## Preview mods
 
-There's also a lot of other things that's changed. Check out the in-game!  
+There are also a lot of other things that have been changed. Check out the in-game screenshots!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
 
 ### Discord
@@ -49,7 +49,7 @@ There's also a lot of other things that's changed. Check out the in-game!
 
 ## Preview options
 
-<b><i>※ I working on it now. Please wait :p</i></b>
+<b><i>※ Work in progress. Please look forward to it :p</i></b>
 
 ## Installing the mod
 
@@ -98,11 +98,11 @@ Use of this program is at your own risk. Square Enix does not permit the use of 
 
 **Can you change the color of the HP/MP/Gauge bars?**
 
-Not currently. It's not that there's no way out, but it's not very encouraging. More than anything else, you can't get the color you want perfectly.
+Not currently. It's not that it is impossible, just not very intuitive. More than anything else, you can't get the color you want perfectly.
 
 ## Special thanks
 
-I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. And most of all, I would like to thank everyone who uses this UI.
+I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. Most of all, I would like to thank everyone who uses this UI.
 
 ## Credit and support
 
