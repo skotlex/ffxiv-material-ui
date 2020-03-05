@@ -55,7 +55,7 @@ There are also a lot of other things that have been changed. Check out the in-ga
 
 1. Download and install FFXIV TexTools
 
-***For Textool, it is recommended to use the latest.***
+***FOR TEXTOOLS, RECOMMEND TO USE THE LATEST VERSION.***
 
 | Program name  | Download page |
 |---|---|
