@@ -108,38 +108,50 @@ You can change many different aspects of the game including Minimap style, Castb
 
 #### Glowing icons but ranged DPS have different color
 ![Glowing icons but ranged DPS have different color](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/04_glow-job-icon-diff-range-dps-color/glow_job_icon_diff_range_dps_color.png)
-
 ### Castbar colors
 
-Default
+#### Default
+![Default](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/04_GaugeBar/01_target-castbar-default/target-castbar-default.png)
 
-Red
+#### Red
+![Red](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/04_GaugeBar/02_target-castbar-red/target-castbar-red.png)
 
-Gray
+#### Gray
+![Gray](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/04_GaugeBar/03_target-castbar-gray/target-castbar-gray.png)
 
 ### Window
 
-## Some of these options will only work with certain styles
+#### Some of these options will only work with certain styles
 
-#### Discord only
+### Discord only
 
-Selected window border
+#### Discord style Selected window border
+![Selected window border](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/01_discord-selected-window-border/discord-selected-window-border.png)
 
-nonselected window transparency
+#### Discord style nonselected window transparency
+![nonselected window transparency](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/02_discord-non-selected-window-transparency/discord-non-selected-window-transparency.png)
 
-#### Black only
+### Black only
 
-Selected window border
+#### Black style Selected window border
+![Selected window border](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/03_black-selected-window-border/black-selected-window-border.png)
 
-nonselected window transparency
+#### Black style nonselected window transparency
+![nonselected window transparency](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/04_black-non-selected-window-transparency/black-non-selected-window-transparency.png)
 
-#### Works with both
+### Works with both
 
-Discord chatlog resize symbol
+#### Discord style chatlog resize symbol
+![Discord chatlog resize symbol](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/05_discord-chatlog-resize-symbol/discord-chatlog-resize-symbol.png)
 
-Black chatlog resize symbol
+#### Black style chatlog resize symbol
+![Black chatlog resize symbol](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/06_black-chatlog-resize-symbol/black-chatlog-resize-symbol.png)
 
 ### Maps
+
+#### This is a seperate mod on XIVModArchive.
+![Preview](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/06_MapPack/mappack-preview.png)
+[Link](https://www.xivmodarchive.com/modid/9534)
 
 ## Installing the mod
 
