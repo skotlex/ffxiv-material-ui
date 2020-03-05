@@ -49,7 +49,97 @@ There are also a lot of other things that have been changed. Check out the in-ga
 
 ## Preview options
 
-<b><i>※ Work in progress. Please look forward to it :p</i></b>
+You can change many different aspects of the game including Minimap style, Castbar color, and more. Check out the in-game screenshots!  
+<b><i>※ All images can be viewed as original when clicked</i></b>
+
+### Minimap
+
+#### Discord style circle
+![Discord style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/01_discord-circle-minimap/discord-circle-minimap.png)
+
+#### Discord style circle without NSEW
+![Discord style circle without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/02_discord-circle-minimap-remove-NESW/discord-circle-minimap-remove-NESW.png)
+
+#### Discord style Square
+![Discord style Square](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/03_discord-square-minimap/discord-square-minimap.png)
+
+#### Discord style Square without NSEW
+![Discord style Square without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/04_discord-square-minimap-remove-NESW/discord-square-minimap-remove-NESW.png)
+
+#### Black style circle
+![Black style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/05_black-circle-minimap/black-circle-minimap.png)
+
+#### Black style circle without NSEW
+![Black style circle without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/06_black-circle-minimap-remove-NESW/black-circle-minimap-remove-NESW.png)
+
+#### Black style Square
+![Black style Square](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/07_black-square-minimap/black-square-minimap.png)
+
+#### Black style Square without NSEW
+![Black style Square without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/08_black-square-minimap-remove-NESW/black-square-minimap-remove-NESW.png)
+
+### Party list
+
+#### Emerald green Shield bar
+![Emerald green Shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/01_partyshield-emerald-green/partyshield-emerald-green.png)
+
+#### Purple Shield Bar
+![Purple Shield Bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/02_partyshield-purple/partyshield-purple.png)
+
+#### Dark red Shield bar
+![Dark red Shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/03_partyshield-dark-red/partyshield-dark-red.png)
+
+#### Sky Blue Shield bar
+![Sky Blue Shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/04_partyshield-sky-blue/partyshield-sky-blue.png)
+
+#### Deep blue shield bar
+![Deep blue shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/05_partyshield-deep-blue/partyshield-deep-blue.png)
+
+### Icons
+
+#### Rounded corner job icons
+![Round background job icons](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/01_round-background-job-icon/round_background_job_icon.png)
+
+#### Squared corner job icons
+![edge background job icons](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/02_edge-background-job-icon/02-1_edge_background_job_icon.png)
+
+#### Glowing job icons
+![Glowing job icons](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/03_glow-job-icon/glow_job_icon.png)
+
+#### Glowing icons but ranged DPS have different color
+![Glowing icons but ranged DPS have different color](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/04_glow-job-icon-diff-range-dps-color/glow_job_icon_diff_range_dps_color.png)
+
+### Castbar colors
+
+Default
+
+Red
+
+Gray
+
+### Window
+
+## Some of these options will only work with certain styles
+
+#### Discord only
+
+Selected window border
+
+nonselected window transparency
+
+#### Black only
+
+Selected window border
+
+nonselected window transparency
+
+#### Works with both
+
+Discord chatlog resize symbol
+
+Black chatlog resize symbol
+
+### Maps
 
 ## Installing the mod
 
