@@ -54,9 +54,7 @@ You can change many different aspects of the game including Minimap style, Castb
 
 ### Minimap
 
-#### These options will only work with certain styles
-
-### Discord only
+#### These options will only work with all styles
 
 #### Discord style circle
 ![Discord style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/01_discord-circle-minimap/discord-circle-minimap.png)
@@ -69,8 +67,6 @@ You can change many different aspects of the game including Minimap style, Castb
 
 #### Discord style Square without NSEW
 ![Discord style Square without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/04_discord-square-minimap-remove-NESW/discord-square-minimap-remove-NESW.png)
-
-### Black only
 
 #### Black style circle
 ![Black style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/05_black-circle-minimap/black-circle-minimap.png)
@@ -85,6 +81,8 @@ You can change many different aspects of the game including Minimap style, Castb
 ![Black style Square without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/08_black-square-minimap-remove-NESW/black-square-minimap-remove-NESW.png)
 
 ### Party list
+
+#### These options will only work with all styles
 
 #### Emerald green Shield bar
 ![Emerald green Shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/01_partyshield-emerald-green/partyshield-emerald-green.png)
@@ -103,6 +101,8 @@ You can change many different aspects of the game including Minimap style, Castb
 
 ### Icons
 
+#### These options will only work with all styles
+
 #### Rounded corner job icons
 ![Round background job icons](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/01_round-background-job-icon/round_background_job_icon.png)
 
@@ -115,6 +115,8 @@ You can change many different aspects of the game including Minimap style, Castb
 #### Glowing icons but ranged DPS have different color
 ![Glowing icons but ranged DPS have different color](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/04_glow-job-icon-diff-range-dps-color/glow_job_icon_diff_range_dps_color.png)
 ### Castbar colors
+
+#### These options will only work with all styles
 
 #### Default
 ![Default](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/04_GaugeBar/01_target-castbar-default/target-castbar-default.png)
