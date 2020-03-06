@@ -54,6 +54,10 @@ You can change many different aspects of the game including Minimap style, Castb
 
 ### Minimap
 
+#### These options will only work with certain styles
+
+### Discord only
+
 #### Discord style circle
 ![Discord style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/01_discord-circle-minimap/discord-circle-minimap.png)
 
@@ -65,6 +69,8 @@ You can change many different aspects of the game including Minimap style, Castb
 
 #### Discord style Square without NSEW
 ![Discord style Square without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/04_discord-square-minimap-remove-NESW/discord-square-minimap-remove-NESW.png)
+
+### Black only
 
 #### Black style circle
 ![Black style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/05_black-circle-minimap/black-circle-minimap.png)
