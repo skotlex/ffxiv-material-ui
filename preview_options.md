@@ -1,3 +1,14 @@
+# OPTIONS PREVIEW
+Thank you, AmenneHoleane, for providing the translation. :)
+
+## Contents
+
+1. [Minimap](#minimap)
+2. [Party list](#party-list)
+3. [Icons](#icons)
+4. [Castbar colors](#castbar-colors)
+5. [Window frame](#window-frame)
+
 ## Minimap
 These options will work with all styles
   
@@ -34,7 +45,7 @@ These options will work with all styles
 ![interrupt](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p08.png)
 
 ## Window frame
-<i>Some of these options will only work with certain styles</i>
+<b>※ CAUTION: </b><i>Some of these options will only work with certain styles</i>
 
 ### (Discord ONLY) Selected window border
 ![discord selected window border](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p09.png)
