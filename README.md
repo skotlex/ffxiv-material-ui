@@ -7,7 +7,7 @@
 1. [Intro](#intro)  
 2. [Mod downloads](#mod-downloads)  
 3. [Preview mods](#preview-mods)  
-4. <s>[Preview options](#preview-options)</s>
+4. [Preview options](#preview-options)
 5. [Installing the mod](#installing-the-mod)  
 6. [What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches)  
 7. [Disclaimers](#disclaimers)  
@@ -28,7 +28,7 @@ There are two kinds, the concepts for each theme are as follows:
 
 ## Mod downloads
 
-Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
+Download Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/releases)]
 
 ## Preview mods
 
@@ -44,12 +44,8 @@ There are also a lot of other things that have been changed. Check out the in-ga
 ### Simple JobHud bar
 ![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
 
-### Mappack
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
-
 ## Preview options
-
-<b><i>※ Work in progress. Please look forward to it :p</i></b>
+Document: [[Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)]
 
 ## Installing the mod
 
