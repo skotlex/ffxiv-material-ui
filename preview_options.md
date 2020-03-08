@@ -1,3 +1,6 @@
+# OPTIONS PREVIEW
+Thank you, AmenneHoleane, for providing the translation. :)
+
 ## Contents
 
 1. [Minimap](#minimap)
