@@ -1,5 +1,6 @@
-# FFXIV Material UI (Discord/Black)
+![logo](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_logo.png)
 
+## FFXIV Material UI (Discord/Black)
 *※ The document was written using a translator. Please excuse me even if the context is a little strange.*
 
 ## Contents
@@ -35,14 +36,17 @@ Download Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/releases
 There are also a lot of other things that have been changed. Check out the in-game screenshots!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
 
-### Discord
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
+### ◇ Discord
+![preview discord](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
 
-### Black
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
+### ◇ Black
+![preview black](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
 
-### Simple JobHud bar
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
+### ◇ Simple JobHud bar
+![preview jobhud bar](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
+
+### ◇ Treasure Map Coordinate
+![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
 
 ## Preview options
 Document Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)]
