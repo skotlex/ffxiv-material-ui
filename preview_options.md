@@ -21,6 +21,7 @@ These options will work with all styles
 ## Party list
 These options will work with all styles
 
+### ◇ Partylist shield color
 ![partylist color](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p03.png)
 
 ## Icons
@@ -38,11 +39,20 @@ These options will work with all styles
 ### ◇ Glowing icons but ranged DPS have different color
 ![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p07.png)
 
+### ◇ Contents detail glow job icons
+![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p15.png)
+
+### ◇ Contents detail default job icons
+![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p16.png)
+
 ## Castbar colors
 These options will work with all styles
 
 ### ◇ Interrupt gauge bar
 ![interrupt](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p08.png)
+
+### ◇ Silver frame gauge bar
+![interrupt](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p17.png)
 
 ## Window frame
 <b>※ CAUTION: </b><i>Some of these options will only work with certain styles</i>
