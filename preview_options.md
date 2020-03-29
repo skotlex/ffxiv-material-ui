@@ -45,7 +45,7 @@ These options will work with all styles
 ### ◇ Contents detail default job icons
 ![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p16.png)
 
-## Castbar colors
+## Cast(gauge) bar
 These options will work with all styles
 
 ### ◇ Interrupt gauge bar
