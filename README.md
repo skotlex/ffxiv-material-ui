@@ -36,19 +36,19 @@ Download Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/releases
 There are also a lot of other things that have been changed. Check out the in-game screenshots!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
 
-### Discord
+### ◇ Discord
 ![preview discord](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
 
-### Black
+### ◇ Black
 ![preview black](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
 
-### Simple JobHud bar
+### ◇ Simple JobHud bar
 ![preview jobhud bar](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
 
-### Treasure Map Coordinate
+### ◇ Treasure Map Coordinate
 ![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
 
-## Preview options
+## ◇ Preview options
 Document Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)]
 
 ## Installing the mod
