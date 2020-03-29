@@ -1,4 +1,4 @@
-![logo](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_logo.png)
+![logo](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_logo_w902.png)
 
 ## FFXIV Material UI (Discord/Black)
 *※ The document was written using a translator. Please excuse me even if the context is a little strange.*
