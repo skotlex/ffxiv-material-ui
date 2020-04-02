@@ -6,7 +6,7 @@ Thank you, AmenneHoleane, for providing the translation. :)
 1. [Minimap](#minimap)
 2. [Party list](#party-list)
 3. [Icons](#icons)
-4. [Castbar colors](#castbar-colors)
+4. [Gauge bar](#gauge-bar)
 5. [Window frame](#window-frame)
 
 ## Minimap
@@ -45,7 +45,7 @@ These options will work with all styles
 ### ◇ Contents detail default job icons
 ![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p16.png)
 
-## Cast(gauge) bar
+## Gauge bar
 These options will work with all styles
 
 ### ◇ Interrupt gauge bar
