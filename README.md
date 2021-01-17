@@ -29,7 +29,7 @@ There are two kinds, the concepts for each theme are as follows:
 
 ## Mod downloads
 
-Download Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/releases)]
+Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
 ## Preview mods
 
@@ -99,6 +99,17 @@ Use of this program is at your own risk. Square Enix does not permit the use of 
 **Can you change the color of the HP/MP/Gauge bars?**
 
 Not currently. It's not that it is impossible, just not very intuitive. More than anything else, you can't get the color you want perfectly.
+
+**How can I apply the option?**
+
+1. Apply Material-UI(discord or black).ttmp2
+2. Download OPTIONS.zip and move to the wanted folder. (ex. ~\OPTIONS\01_Minimap\03_discord-square-minimap)
+3. Apply ttmp2 in the folder.
+
+**How do I use Simple job hud?**
+
+It is only possible in simple job hud. Please refer to the following site:
+[SQEX simple hud guide](https://na.finalfantasyxiv.com/blog/002175.html)
 
 ## Special thanks
 
