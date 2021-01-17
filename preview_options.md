@@ -42,6 +42,9 @@ These options will work with all styles
 ### ◇ Contents detail glow job icons
 ![contents detail glow](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p15.png)
 
+### ◇ Contents detail default job icons
+![contents detail default](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p16.png)
+
 ### ◇ Contents detail glow job icons but ranged DPS have different color
 ![contents detail glow and ranged dps](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p18.png)
 
