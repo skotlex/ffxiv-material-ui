@@ -36,6 +36,9 @@ Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
 There are also a lot of other things that have been changed. Check out the in-game screenshots!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
 
+<details>
+<summary>Click to expand</summary>
+
 ### ◇ Discord
 ![preview discord](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
 
@@ -47,6 +50,8 @@ There are also a lot of other things that have been changed. Check out the in-ga
 
 ### ◇ Treasure Map Coordinate
 ![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
+
+</details>
 
 ## Preview options
 Document Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)
