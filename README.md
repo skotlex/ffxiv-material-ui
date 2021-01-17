@@ -49,7 +49,7 @@ There are also a lot of other things that have been changed. Check out the in-ga
 ![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
 
 ## Preview options
-Document Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)]
+Document Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)
 
 ## Installing the mod
 
