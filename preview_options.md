@@ -40,10 +40,16 @@ These options will work with all styles
 ![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p07.png)
 
 ### ◇ Contents detail glow job icons
-![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p15.png)
+![contents detail glow](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p15.png)
 
-### ◇ Contents detail default job icons
-![glowing dps diff](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p16.png)
+### ◇ Contents detail glow job icons but ranged DPS have different color
+![contents detail glow and ranged dps](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p18.png)
+
+### ◇ Enemylist aggro default icon
+![enemylist aggro default icon](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p19.png)
+
+### ◇ Remove macro gear icon
+![remove macro gear icon](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/OPTIONS/option_p20.png)
 
 ## Gauge bar
 These options will work with all styles
