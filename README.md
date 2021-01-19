@@ -88,7 +88,12 @@ Select and apply(import modpack) the *Material UI.ttmp2* file from the *[Mods â†
 
 ## What to do for new FFXIV patches
 
-After a patch is received, the mod may be disabled. In case of this, you'll take the steps below.
+I recommend making a mod backup, you can do this by selecting `Make Modpack` in the mods menu, selecting every active mod, and hitting create.
+
+Before downloading a new FFXIV patch it is safest to hit the `Start Over` option in the TexTools help menu, installing the FFXIV patch, then importing the mod backup you created previously.
+
+While these precautions don't always turn out to be necessary, you risk damaging your install if you don't take them.
+If this sentence is difficult to understand, please follow the steps below.
 
 1. Hit `[Help â†’ Start Over]`
 2. Download new FFXIV patch
