@@ -1,6 +1,8 @@
 ![logo](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_logo_w902.png)
 
 ## FFXIV Material UI (Discord/Black)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/skotlex/ffxiv-material-ui) ![GitHub all releases](https://img.shields.io/github/downloads/skotlex/ffxiv-material-ui/total) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/skotlex/ffxiv-material-ui/latest/total) [![GitHub license](https://img.shields.io/github/license/skotlex/ffxiv-material-ui)](https://github.com/skotlex/ffxiv-material-ui/blob/master/LICENSE) 
+
 *※ The document was written using a translator. Please excuse me even if the context is a little strange.*
 
 ## Contents
@@ -29,12 +31,15 @@ There are two kinds, the concepts for each theme are as follows:
 
 ## Mod downloads
 
-Download Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/releases)]
+Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
 ## Preview mods
 
 There are also a lot of other things that have been changed. Check out the in-game screenshots!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
+
+<details>
+<summary>Click to expand</summary>
 
 ### ◇ Discord
 ![preview discord](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
@@ -48,8 +53,10 @@ There are also a lot of other things that have been changed. Check out the in-ga
 ### ◇ Treasure Map Coordinate
 ![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
 
+</details>
+
 ## Preview options
-Document Link: [[Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)]
+Document Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)
 
 ## Installing the mod
 
@@ -81,8 +88,9 @@ Select and apply(import modpack) the *Material UI.ttmp2* file from the *[Mods �
 
 ## What to do for new FFXIV patches
 
-After a patch is received, the mod may be disabled. In case of this, you'll take the steps below.
+I recommend making a mod backup, you can do this by selecting `Make Modpack` in the mods menu, selecting every active mod, and hitting create. Before downloading a new FFXIV patch it is safest to hit the `Start Over` option in the TexTools help menu, installing the FFXIV patch, then importing the mod backup you created previously. While these precautions don't always turn out to be necessary, you risk damaging your install if you don't take them.
 
+If you difficult to understand what's written above, follow the steps below.
 1. Hit `[Help → Start Over]`
 2. Download new FFXIV patch
 3. Hit `[Help → Backup Index Files]`
@@ -99,6 +107,17 @@ Use of this program is at your own risk. Square Enix does not permit the use of 
 **Can you change the color of the HP/MP/Gauge bars?**
 
 Not currently. It's not that it is impossible, just not very intuitive. More than anything else, you can't get the color you want perfectly.
+
+**How can I apply the option?**
+
+1. Apply Material-UI(discord or black).ttmp2
+2. Download OPTIONS.zip and move to the wanted folder. (ex. ~\OPTIONS\01_Minimap\03_discord-square-minimap)
+3. Apply ttmp2 in the folder.
+
+**How do I use Simple job hud?**
+
+It is only possible in simple job hud. Please refer to the following site:
+[SQEX simple hud guide](https://na.finalfantasyxiv.com/blog/002175.html)
 
 ## Special thanks
 
