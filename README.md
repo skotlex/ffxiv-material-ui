@@ -1,4 +1,4 @@
-![logo](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_logo_w902.png)
+![logo](ModPacks/Resources/Preview/github_logo_w902.png)
 
 ## FFXIV Material UI (Discord/Black)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/skotlex/ffxiv-material-ui) ![GitHub all releases](https://img.shields.io/github/downloads/skotlex/ffxiv-material-ui/total) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/skotlex/ffxiv-material-ui/latest/total) [![GitHub license](https://img.shields.io/github/license/skotlex/ffxiv-material-ui)](https://github.com/skotlex/ffxiv-material-ui/blob/master/LICENSE)
@@ -28,10 +28,10 @@
 * At this time, no other themes are supported nor are there any plans to do so.  
 
 The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> <details>
-<summary>Click for visual reference</summary> 
+<summary>Click for visual reference</summary>
 
 ![screenshot](ModPacks/Resources/Theme.png)
-  
+
 </details>
 
 #### Icons are missing or displaying incorrectly after the 5.5x patches
@@ -59,16 +59,16 @@ There are also a lot of other things that have been changed. Check out the in-ga
 <summary>Click to expand</summary>
 
 ### ◇ Discord
-![preview discord](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
+![preview discord](ModPacks/Resources/Preview/preview(discord).png)
 
 ### ◇ Black
-![preview black](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
+![preview black](ModPacks/Resources/Preview/preview(black).png)
 
 ### ◇ Simple JobHud bar
-![preview jobhud bar](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
+![preview jobhud bar](ModPacks/Resources/Preview/jobhud.png)
 
 ### ◇ Treasure Map Coordinate
-![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
+![preview treasure map](ModPacks/Resources/Preview/mappack.png)
 
 </details>
 
