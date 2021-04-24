@@ -29,7 +29,9 @@
 
 The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> <details>
 <summary>Click for visual reference</summary> 
+
 ![screenshot](ModPacks/Resources/Theme.png)
+  
 </details>
 
 #### Icons are missing or displaying incorrectly after the 5.5x patches
