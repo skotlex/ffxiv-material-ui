@@ -1,3 +1,5 @@
 **/*.psd
-**/*.ttmp2
 **/*.zip
+**/*.ttmp2
+**/ModPacks/OPTIONS/
+**/ModPacks/Release/

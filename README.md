@@ -1,4 +1,7 @@
-# FFXIV Material UI (Discord/Black)
+![logo](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_logo_w902.png)
+
+## FFXIV Material UI (Discord/Black)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/skotlex/ffxiv-material-ui) ![GitHub all releases](https://img.shields.io/github/downloads/skotlex/ffxiv-material-ui/total) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/skotlex/ffxiv-material-ui/latest/total) [![GitHub license](https://img.shields.io/github/license/skotlex/ffxiv-material-ui)](https://github.com/skotlex/ffxiv-material-ui/blob/master/LICENSE) 
 
 *※ The document was written using a translator. Please excuse me even if the context is a little strange.*
 
@@ -35,131 +38,25 @@ Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
 There are also a lot of other things that have been changed. Check out the in-game screenshots!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
 
-### Discord
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
+<details>
+<summary>Click to expand</summary>
 
-### Black
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
+### ◇ Discord
+![preview discord](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
 
-### Simple JobHud bar
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
+### ◇ Black
+![preview black](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
 
-### Mappack
-![preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
+### ◇ Simple JobHud bar
+![preview jobhud bar](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
+
+### ◇ Treasure Map Coordinate
+![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
+
+</details>
 
 ## Preview options
-
-You can change many different aspects of the game including Minimap style, Castbar color, and more. Check out the in-game screenshots!  
-<b><i>※ All images can be viewed as original when clicked</i></b>
-
-### Minimap
-
-#### These options will work with all styles
-
-#### Discord style circle
-![Discord style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/01_discord-circle-minimap/discord-circle-minimap.png)
-
-#### Discord style circle without NSEW
-![Discord style circle without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/02_discord-circle-minimap-remove-NESW/discord-circle-minimap-remove-NESW.png)
-
-#### Discord style Square
-![Discord style Square](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/03_discord-square-minimap/discord-square-minimap.png)
-
-#### Discord style Square without NSEW
-![Discord style Square without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/04_discord-square-minimap-remove-NESW/discord-square-minimap-remove-NESW.png)
-
-#### Black style circle
-![Black style circle](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/05_black-circle-minimap/black-circle-minimap.png)
-
-#### Black style circle without NSEW
-![Black style circle without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/06_black-circle-minimap-remove-NESW/black-circle-minimap-remove-NESW.png)
-
-#### Black style Square
-![Black style Square](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/07_black-square-minimap/black-square-minimap.png)
-
-#### Black style Square without NSEW
-![Black style Square without NSEW](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/01_Minimap/08_black-square-minimap-remove-NESW/black-square-minimap-remove-NESW.png)
-
-### Party list
-
-#### These options will work with all styles
-
-#### Emerald green Shield bar
-![Emerald green Shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/01_partyshield-emerald-green/partyshield-emerald-green.png)
-
-#### Purple Shield Bar
-![Purple Shield Bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/02_partyshield-purple/partyshield-purple.png)
-
-#### Dark red Shield bar
-![Dark red Shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/03_partyshield-dark-red/partyshield-dark-red.png)
-
-#### Sky Blue Shield bar
-![Sky Blue Shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/04_partyshield-sky-blue/partyshield-sky-blue.png)
-
-#### Deep blue shield bar
-![Deep blue shield bar](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/02_PartyList/05_partyshield-deep-blue/partyshield-deep-blue.png)
-
-### Icons
-
-#### These options will work with all styles
-
-#### Rounded corner job icons
-![Round background job icons](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/01_round-background-job-icon/round_background_job_icon.png)
-
-#### Squared corner job icons
-![edge background job icons](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/02_edge-background-job-icon/02-1_edge_background_job_icon.png)
-
-#### Glowing job icons
-![Glowing job icons](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/03_glow-job-icon/glow_job_icon.png)
-
-#### Glowing icons but ranged DPS have different color
-![Glowing icons but ranged DPS have different color](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/03_Icon/04_glow-job-icon-diff-range-dps-color/glow_job_icon_diff_range_dps_color.png)
-### Castbar colors
-
-#### These options will work with all styles
-
-#### Default
-![Default](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/04_GaugeBar/01_target-castbar-default/target-castbar-default.png)
-
-#### Red
-![Red](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/04_GaugeBar/02_target-castbar-red/target-castbar-red.png)
-
-#### Gray
-![Gray](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/04_GaugeBar/03_target-castbar-gray/target-castbar-gray.png)
-
-### Window
-
-#### Some of these options will only work with certain styles
-
-### Discord only
-
-#### Discord style Selected window border
-![Selected window border](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/01_discord-selected-window-border/discord-selected-window-border.png)
-
-#### Discord style nonselected window transparency
-![nonselected window transparency](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/02_discord-non-selected-window-transparency/discord-non-selected-window-transparency.png)
-
-### Black only
-
-#### Black style Selected window border
-![Selected window border](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/03_black-selected-window-border/black-selected-window-border.png)
-
-#### Black style nonselected window transparency
-![nonselected window transparency](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/04_black-non-selected-window-transparency/black-non-selected-window-transparency.png)
-
-### Works with both
-
-#### Discord style chatlog resize symbol
-![Discord chatlog resize symbol](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/05_discord-chatlog-resize-symbol/discord-chatlog-resize-symbol.png)
-
-#### Black style chatlog resize symbol
-![Black chatlog resize symbol](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/05_Window/06_black-chatlog-resize-symbol/black-chatlog-resize-symbol.png)
-
-### Maps
-
-#### This is a seperate mod on XIVModArchive.
-![Preview](https://github.com/AmenneHolelane/ffxiv-material-ui/blob/master/ModPacks/OPTIONS/06_MapPack/mappack-preview.png)
-[Link](https://www.xivmodarchive.com/modid/9534)
+Document Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)
 
 ## Installing the mod
 
@@ -191,8 +88,9 @@ Select and apply(import modpack) the *Material UI.ttmp2* file from the *[Mods �
 
 ## What to do for new FFXIV patches
 
-After a patch is received, the mod may be disabled. In case of this, you'll take the steps below.
+I recommend making a mod backup, you can do this by selecting `Make Modpack` in the mods menu, selecting every active mod, and hitting create. Before downloading a new FFXIV patch it is safest to hit the `Start Over` option in the TexTools help menu, installing the FFXIV patch, then importing the mod backup you created previously. While these precautions don't always turn out to be necessary, you risk damaging your install if you don't take them.
 
+If you difficult to understand what's written above, follow the steps below.
 1. Hit `[Help → Start Over]`
 2. Download new FFXIV patch
 3. Hit `[Help → Backup Index Files]`
@@ -209,6 +107,17 @@ Use of this program is at your own risk. Square Enix does not permit the use of 
 **Can you change the color of the HP/MP/Gauge bars?**
 
 Not currently. It's not that it is impossible, just not very intuitive. More than anything else, you can't get the color you want perfectly.
+
+**How can I apply the option?**
+
+1. Apply Material-UI(discord or black).ttmp2
+2. Download OPTIONS.zip and move to the wanted folder. (ex. ~\OPTIONS\01_Minimap\03_discord-square-minimap)
+3. Apply ttmp2 in the folder.
+
+**How do I use Simple job hud?**
+
+It is only possible in simple job hud. Please refer to the following site:
+[SQEX simple hud guide](https://na.finalfantasyxiv.com/blog/002175.html)
 
 ## Special thanks
 
