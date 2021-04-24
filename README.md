@@ -28,7 +28,8 @@
 * At this time, no other themes are supported nor are there any plans to do so.  
 
 The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> <details>
-<summary>Click for visual reference</summary> ![screenshot](ModPacks\Resources\Theme.png)
+<summary>Click for visual reference</summary> ![screenshot](/ModPacks/Resources/Theme.png)
+</details>
 
 ##### Icons are missing or displaying incorrectly after the 5.5x patches
 * In the past updating the game client without disabling mods usually worked fine, however, it was not in best practice to do so. Updating to 5.5 with mods enabled broke most installs as SquareEnix implemented a few major changes in how data was stored, which resulted in TexTools injecting mods into the wrong location.
