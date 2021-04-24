@@ -21,17 +21,18 @@
 
 ---
 # **Attention!**
-##### At the time of writing, this mod only supports the Standard (HD/full HD) icons.
+#### At the time of writing, this mod only supports the Standard (HD/full HD) icons.
 * 4K support is being worked on and is aiming to be implemented before 6.0, please see [here](https://github.com/skotlex/ffxiv-material-ui/issues/214) for more information.
 
-##### At the time of writing, this mod only supports the Dark system color scheme.
+#### At the time of writing, this mod only supports the Dark system color scheme.
 * At this time, no other themes are supported nor are there any plans to do so.  
 
 The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> <details>
-<summary>Click for visual reference</summary> ![screenshot](/ModPacks/Resources/Theme.png)
+<summary>Click for visual reference</summary> 
+![screenshot](ModPacks/Resources/Theme.png)
 </details>
 
-##### Icons are missing or displaying incorrectly after the 5.5x patches
+#### Icons are missing or displaying incorrectly after the 5.5x patches
 * In the past updating the game client without disabling mods usually worked fine, however, it was not in best practice to do so. Updating to 5.5 with mods enabled broke most installs as SquareEnix implemented a few major changes in how data was stored, which resulted in TexTools injecting mods into the wrong location.
 
 You can try to resolve this by ensuring you have all the .ttmp2 files saved from any mods you wish to keep (or the download location to reobtain the information), then open textools, download the index backups, and then select "start over". The index backups can also be downloaded from [here](https://github.com/skotlex/ffxiv-material-ui/tree/master/Index_Backups). If none of those work, you will need to completely reinstall the game.
