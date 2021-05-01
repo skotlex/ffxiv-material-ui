@@ -1,12 +1,11 @@
-![logo](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_logo_w902.png)
+![logo](ModPacks/Resources/Preview/github_logo_w902.png)
 
 ## FFXIV Material UI (Discord/Black)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/skotlex/ffxiv-material-ui) ![GitHub all releases](https://img.shields.io/github/downloads/skotlex/ffxiv-material-ui/total) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/skotlex/ffxiv-material-ui/latest/total) [![GitHub license](https://img.shields.io/github/license/skotlex/ffxiv-material-ui)](https://github.com/skotlex/ffxiv-material-ui/blob/master/LICENSE) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/skotlex/ffxiv-material-ui) ![GitHub all releases](https://img.shields.io/github/downloads/skotlex/ffxiv-material-ui/total) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/skotlex/ffxiv-material-ui/latest/total) [![GitHub license](https://img.shields.io/github/license/skotlex/ffxiv-material-ui)](https://github.com/skotlex/ffxiv-material-ui/blob/master/LICENSE)
 
 *※ The document was written using a translator. Please excuse me even if the context is a little strange.*
 
 ## Contents
-
 1. [Intro](#intro)  
 2. [Mod downloads](#mod-downloads)  
 3. [Preview mods](#preview-mods)  
@@ -20,8 +19,28 @@
 11. [Contacts](#contacts)
 
 
-## Intro
+---
+# **Attention!**
+#### At the time of writing, this mod only supports the Standard (HD/full HD) icons.
+* 4K support is being worked on and is aiming to be implemented before 6.0, please see [here](https://github.com/skotlex/ffxiv-material-ui/issues/214) for more information.
 
+#### At the time of writing, this mod only supports the Dark system color scheme.
+* At this time, no other themes are supported nor are there any plans to do so.  
+
+The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> <details>
+<summary>Click for visual reference</summary>
+
+![screenshot](ModPacks/Resources/Theme.png)
+
+</details>
+
+#### Icons are missing or displaying incorrectly after the 5.5x patches
+* In the past updating the game client without disabling mods usually worked fine, however, it was not in best practice to do so. Updating to 5.5 with mods enabled broke most installs as SquareEnix implemented a few major changes in how data was stored, which resulted in TexTools injecting mods into the wrong location.
+
+You can try to resolve this by ensuring you have all the .ttmp2 files saved from any mods you wish to keep (or the download location to reobtain the information), then open textools, download the index backups, and then select "start over". The index backups can also be downloaded from [here](https://github.com/skotlex/ffxiv-material-ui/tree/master/Index_Backups). If none of those work, you will need to completely reinstall the game.
+
+---
+## Intro
 Material UI replaces FFXIV's built-in theme (dark-theme)
 
 There are two kinds, the concepts for each theme are as follows:
@@ -30,11 +49,9 @@ There are two kinds, the concepts for each theme are as follows:
 2. **Black**: Targeting modern dark color, Edged UI
 
 ## Mod downloads
-
 Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
 ## Preview mods
-
 There are also a lot of other things that have been changed. Check out the in-game screenshots!  
 <b><i>※ All images can be viewed as original when clicked</i></b>
 
@@ -42,16 +59,16 @@ There are also a lot of other things that have been changed. Check out the in-ga
 <summary>Click to expand</summary>
 
 ### ◇ Discord
-![preview discord](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(discord).png)
+![preview discord](ModPacks/Resources/Preview/preview(discord).png)
 
 ### ◇ Black
-![preview black](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/preview(black).png)
+![preview black](ModPacks/Resources/Preview/preview(black).png)
 
 ### ◇ Simple JobHud bar
-![preview jobhud bar](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/jobhud.png)
+![preview jobhud bar](ModPacks/Resources/Preview/jobhud.png)
 
 ### ◇ Treasure Map Coordinate
-![preview treasure map](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/mappack.png)
+![preview treasure map](ModPacks/Resources/Preview/mappack.png)
 
 </details>
 
@@ -70,7 +87,7 @@ Document Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/blob/mast
 
 2. Back up the following files in advance before you work *(This is a preparation for mode failure)*
 
-Hit [Help → Backup Index Files] menu. 
+Hit [Help → Backup Index Files] menu.
 
 **Source index-path**: `{Folder with ff14 installed}\game\sqpack\ffxiv`
 
@@ -125,7 +142,7 @@ I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspir
 
 ## Credit and support
 
-This mod was created by *skotlex* and help of all testers. 
+This mod was created by *skotlex* and help of all testers.
 
 If you like my work and want to support it, you can do it [here](https://ko-fi.com/skotlex). Of course, there is no coercion in this sponsorship, and it's just your choice.
 
@@ -133,7 +150,7 @@ If you like my work and want to support it, you can do it [here](https://ko-fi.c
 
 ## Contacts
 
-If you want to ask me something, I am willing to talk. 
+If you want to ask me something, I am willing to talk.
 
 However, if possible, please use [my github issue page](https://github.com/skotlex/ffxiv-material-ui/issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records, and it's gonna be easy to manage.
 
