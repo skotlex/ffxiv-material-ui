@@ -113,7 +113,7 @@ If you difficult to understand what's written above, follow the steps below.
 3. Hit `[Help → Backup Index Files]`
 4. Import Material-UI mod
 
-If you fail to back up the index files for any reason, you can download them from my github. [download link](https://github.com/skotlex/ffxiv-material-ui/tree/master/Discord/Index_Backups)
+If you fail to back up the index files for any reason, you can download them from my github. [download link](https://github.com/skotlex/ffxiv-material-ui/tree/master/Index_Backups)
 
 ## Disclaimers
 
