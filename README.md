@@ -156,5 +156,5 @@ However, if possible, please use [my github issue page](https://github.com/skotl
 
 And please understand the awkwardness of the sentence because I am not an English user.
 
-* Discord: SKOTLEX#3060
+* Discord: [[JOIN]](https://discord.gg/T5sWUpgNPD)
 * Twitter: @skotlex
