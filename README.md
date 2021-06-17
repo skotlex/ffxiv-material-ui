@@ -83,7 +83,7 @@ Document Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/blob/mast
 
 | Program name  | Download page |
 |---|---|
-| TexTools | [https://textools.dualwield.net](https://textools.dualwield.net) |
+| TexTools | [https://www.ffxiv-textools.net](https://www.ffxiv-textools.net) |
 
 2. Back up the following files in advance before you work *(This is a preparation for mode failure)*
 
