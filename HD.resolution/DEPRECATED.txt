@@ -1,0 +1,1 @@
+HD UI resolution is no longer supported.
