@@ -5,6 +5,11 @@ There are two main reasons, one being invisible due to newly added textures and 
 
 However, if the existing texture is broken, the index file may be corrupted with high probability. In this case, you may need to restore the index from the [link](https://github.com/skotlex/ffxiv-material-ui/tree/master/Index_Backups) and try again, or in the worst case, reinstall the game. To prevent this, it is recommended that mods be disabled using the `help` → `start over` function in TexTools just before patching.
 
+- Sample case
+  - [Issues#237 Realm icon/package icon being weird](https://github.com/skotlex/ffxiv-material-ui/issues/237)
+  - [Issues#213 Wrong/Missing Icons](https://github.com/skotlex/ffxiv-material-ui/issues/213)
+  - [Issues#181 Broken Lakeland map](https://github.com/skotlex/ffxiv-material-ui/issues/181)
+
 ## What should I do when a new patch comes out?
 1. Make a backup of your current mods! (Click `Mods` → `Create Modpack` → `Basic ModPack`)
     - In the Name text field give it a fitting name, for example 'Backup', and click `SELECT ACTIVE`
