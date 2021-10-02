@@ -37,7 +37,7 @@ There are two kinds, the concepts for each theme are as follows:
 [Issues#232 Announcement of rescheduling](https://github.com/skotlex/ffxiv-material-ui/issues/232)
 
 ## PREVIEW MODS
-- TODO
+Image is in preparation
 
 ## INSTALL GUIDE
 #### If the game is on before starting the guide, turn it off.
