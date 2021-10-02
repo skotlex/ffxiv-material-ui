@@ -86,7 +86,8 @@ If mods is not applied when you start the game, you have to change the in-game s
 If you download and unzip the OPTIONS.zip file of [INSTALL GUIDE](#install-guide), there is a preview(.png) file in each folder. Look at the image and if there's anything you like, apply it.
 
 ## FAQ
-Please refer to a separate page that collects questions that people ask often. [FAQ page](FAQ.md)
+Please refer to a separate page that collects questions that people ask often. [FAQ page](FAQ.md)\
+**If you're not familiar with TexTool and mods, or if it's your first time, I strongly recommend you read the page.**
 
 ## SPECIAL THANKS
 I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. Most of all, I would like to thank everyone who uses this UI.
