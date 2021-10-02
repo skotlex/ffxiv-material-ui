@@ -107,4 +107,4 @@ However, if possible, please use [my github issue page](https://github.com/skotl
 And please understand the awkwardness of the sentence because I am not an English user.
 
 * DISCORD: [JOIN our channel](https://discord.gg/T5sWUpgNPD)
-* TWITTER: @skotlex
+* TWITTER: [@skotlex](https://twitter.com/skotlex)
