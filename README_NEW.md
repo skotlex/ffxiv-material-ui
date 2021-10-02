@@ -37,7 +37,7 @@ There are two kinds, the concepts for each theme are as follows:
 [Issues#232 Announcement of rescheduling](https://github.com/skotlex/ffxiv-material-ui/issues/232)
 
 ## PREVIEW MODS
-- TODO
+Image is in preparation
 
 ## INSTALL GUIDE
 #### If the game is on before starting the guide, turn it off.
@@ -52,7 +52,7 @@ There are two kinds, the concepts for each theme are as follows:
     - This will create a backup, so that if you want to switch textures you can clear all of them by clicking `Help` → `Start Over` and reinstalling them
 6. Click `Mods` → `Import Mod Packs`
 7. Select `Material 4K-UI BLACK (version).ttmp2` and hit open button.
-    - If you want to apply additional OPTIONS, select OPTIONS ttmp2 in the same way as `Step 7`.
+    - If you want to apply additional OPTIONS, select OPTIONS ttmp2 in the same way as `Step 6 to 7`.
 8. All of the textures will now be loaded next time you launch FFXIV.
 
 ## IN-GAME SETTING
@@ -86,7 +86,8 @@ If mods is not applied when you start the game, you have to change the in-game s
 If you download and unzip the OPTIONS.zip file of [INSTALL GUIDE](#install-guide), there is a preview(.png) file in each folder. Look at the image and if there's anything you like, apply it.
 
 ## FAQ
-Please refer to a separate page that collects questions that people ask often. [FAQ page](FAQ.md)
+Please refer to a separate page that collects questions that people ask often. [FAQ page](FAQ.md)\
+**If you're not familiar with TexTool and mods, or if it's your first time, I strongly recommend you read the page.**
 
 ## SPECIAL THANKS
 I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. Most of all, I would like to thank everyone who uses this UI.
