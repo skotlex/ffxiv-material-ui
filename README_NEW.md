@@ -52,7 +52,7 @@ There are two kinds, the concepts for each theme are as follows:
     - This will create a backup, so that if you want to switch textures you can clear all of them by clicking `Help` → `Start Over` and reinstalling them
 6. Click `Mods` → `Import Mod Packs`
 7. Select `Material 4K-UI BLACK (version).ttmp2` and hit open button.
-    - If you want to apply additional OPTIONS, select OPTIONS ttmp2 in the same way as `Step 7`.
+    - If you want to apply additional OPTIONS, select OPTIONS ttmp2 in the same way as `Step 6 to 7`.
 8. All of the textures will now be loaded next time you launch FFXIV.
 
 ## IN-GAME SETTING
