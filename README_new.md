@@ -67,7 +67,7 @@ For more information, check out the discord server [here]()
 
 ## INSTALL GUIDE
 #### If the game is running before following the guide, close it.
-1. Download the latest version of the Material UI and OPTIONS from the [Releases page](releases/latest).
+1. Download the latest version of the Material UI and OPTIONS from the [Releases page]https://github.com/skotlex/ffxiv-material-ui/releases/latest).
 ![down_cnts](ModPacks/Resources/Preview/down_cnts.png)
 2. Unzip the downloaded compressed files to somewhere you can find them.  
  - If you already have TexTools installed skip to step 5
@@ -130,7 +130,7 @@ If you like my work and want to support it, you can do it [here](https://ko-fi.c
 
 ## CONTACTS
 
-Please use [my github issue page](issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records and easy to manage.
+Please use [my github issue page](https://github.com/skotlex/ffxiv-material-ui/issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records and easy to manage.
 
 If you have any questions or concerns, I'm willing to talk but please understand the awkwardness of the sentences because I am not an English user.
 
