@@ -27,10 +27,12 @@
 #### At the time of writing, this mod only supports the Dark system color scheme.
 * At this time, no other themes are supported nor are there any plans to do so.  
 
-The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> <details>
-<summary>Click for visual reference</summary>
+The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> 
+<details> <summary>Click for visual reference</summary>
+  
 
 ![screenshot](ModPacks/Resources/Theme.png)
+  
 
 </details>
 
