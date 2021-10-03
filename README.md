@@ -40,15 +40,15 @@ There are two kinds, the concepts for each theme are as follows:
 
 * **Black**: Targeting modern dark color, Edged UI
 
-* **Discord version**: Unsupported until further notice. Please refer to [Issue #232](https://github.com/skotlex/ffxiv-material-ui/issues/232) for more information.
+* **Discord version**: Unsupported until further notice. Please refer to [Issue #232](issues/232) for more information.
 
 ## PREVIEWS
-
+<!--
 <b><font size="+1"><details><summary>Preview main mod</summary></font></b>
 
 <!-- <img src=""> -->
 Image Pending
-
+<!--
 </details>
 
 <b><font size="+1"><details><summary>Preview options</summary></font></b>
@@ -58,9 +58,9 @@ Black circle minimap<br>
 <img src="ModPacks/OPTIONS HD/01_Minimap/05_black-circle-minimap/black-circle-minimap.png">
 
 Squared corner job icons
-<br><img src="ModPacks\OPTIONS HD\03_Icon\02_edge-background-job-icon\02-1_edge-background-job-icon.png">
+<br><img src="ModPacks\OPTIONS HD\03_Icon\02_edge-background-job-icon\02-1_edge-background-job-icon.png"> -->
 
-For more options, check out the discord server [here]()
+For more information, check out the discord server [here]()
 
 </details>
 
@@ -130,7 +130,7 @@ If you like my work and want to support it, you can do it [here](https://ko-fi.c
 
 ## CONTACTS
 
-Please use [my github issue page](https://github.com/skotlex/ffxiv-material-ui/issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records, and it's gonna be easy to manage.
+Please use [my github issue page](issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records, and it's gonna be easy to manage.
 
 Please understand the awkwardness of the sentences because I am not an English user.
 
