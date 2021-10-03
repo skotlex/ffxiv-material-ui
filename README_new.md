@@ -60,7 +60,7 @@ Black circle minimap<br>
 Squared corner job icons
 <br><img src="ModPacks\OPTIONS HD\03_Icon\02_edge-background-job-icon\02-1_edge-background-job-icon.png"> -->
 
-For more information, check out the discord server [here]()
+For more information, check out the discord server [here](https://discord.gg/T5sWUpgNPD)
 
 </details>
 
