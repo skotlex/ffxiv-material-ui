@@ -6,9 +6,9 @@ There are two main reasons, one being invisible due to newly added textures and 
 If the existing texture is broken however, the index file is probably broken. This usually occurs after updating or re-installing FFXIV with mods enabled. In this case, you may need to restore the index via textools via `help` → `download index backups`. If this does not work, you can try to manually download them from the repo [here](Index_Backups) or in the worst case, reinstall the game. To prevent this, it is recommended that mods be disabled using the `help` → `start over` function in TexTools just before patching.
 
 - Sample case
-  - [Issues#237 Realm icon/package icon being weird](issues/237)
-  - [Issues#213 Wrong/Missing Icons](issues/213)
-  - [Issues#181 Broken Lakeland map](issues/181)
+  - [Issues#237 Realm icon/package icon being weird](https://github.com/skotlex/ffxiv-material-ui/issues/237)
+  - [Issues#213 Wrong/Missing Icons](https://github.com/skotlex/ffxiv-material-ui/issues/213)
+  - [Issues#181 Broken Lakeland map](https://github.com/skotlex/ffxiv-material-ui/issues/181)
 
 ## What should I do when a new patch comes out?
 1. Make a backup of your current mods! (Click `Mods` → `Create Modpack` → `Basic ModPack`)
@@ -58,4 +58,4 @@ If mods is not applied when you start the game, you have to change the in-game s
 
 ## Can I change the color of the HP/MP/Gauge bars?
 No. It's not that it is impossible, just not very intuitive. More than anything else, you can't get the color you want perfectly.\
-Please refer to the following link to explain the principle of gauge bar color. [Issues#61 color cast bar](issues/61#issuecomment-524636275)
+Please refer to the following link to explain the principle of gauge bar color. [Issues#61 color cast bar](https://github.com/skotlex/ffxiv-material-ui/issues/61#issuecomment-524636275)

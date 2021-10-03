@@ -40,7 +40,7 @@ There are two kinds, the concepts for each theme are as follows:
 
 * **Black**: Targeting modern dark color, Edged UI
 
-* **Discord version**: Unsupported until further notice. Please refer to [Issue #232](issues/232) for more information.
+* **Discord version**: Unsupported until further notice. Please refer to [Issue #232](https://github.com/skotlex/ffxiv-material-ui/issues/232) for more information.
 
 ## PREVIEWS
 <!--
