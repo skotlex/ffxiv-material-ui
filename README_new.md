@@ -21,9 +21,9 @@
 >Some tools, like combat trackers, are abused to harass other players while others have a lewd/illegal nature to them, and so Square Enix must be able to ban accounts who use modding for this purpose.
 >
 >There are a few rules of thumb when it comes to third party tools.
-* Do not harass people.
-* Do not post your character name visibly in modded screenshots.
-* __DO NOT POST MODDED SCREENSHOTS WITH THE SQUARE ENIX COPYRIGHT INFORMATION VISIBLE__.
+>* Do not harass people.
+>* Do not post your character name visibly in modded screenshots.
+>* __DO NOT POST MODDED SCREENSHOTS WITH THE SQUARE ENIX COPYRIGHT INFORMATION VISIBLE__.
 >
 >Square Enix has a much lower tolerance for nsfw mods and will aggressively take down anything that is not "brand safe"
 >
@@ -39,8 +39,7 @@ Material UI replaces FFXIV's built-in theme (dark-theme)
 There are two kinds, the concepts for each theme are as follows:
 
 * **Black**: Targeting modern dark color, Edged UI
-
-* **Discord version**: Unsupported until further notice. Please refer to [Issue #232](https://github.com/skotlex/ffxiv-material-ui/issues/232) for more information.
+* **Discord**: Unsupported until further notice. Please refer to [Issue #232](https://github.com/skotlex/ffxiv-material-ui/issues/232) for more information.
 
 ## PREVIEWS
 <!--
@@ -70,7 +69,7 @@ For more information, check out the discord server [here](https://discord.gg/T5s
 1. Download the latest version of the Material UI and OPTIONS from the [Releases page](https://github.com/skotlex/ffxiv-material-ui/releases/latest).
 ![down_cnts](ModPacks/Resources/Preview/down_cnts.png)
 2. Unzip the downloaded compressed files to somewhere you can find them.  
- - If you already have TexTools installed skip to step 5
+    - If you already have TexTools installed skip to `step 5`
 3. Download the latest version of the `Install_TexTools.exe` file from [here](https://github.com/TexTools/FFXIV_TexTools_UI/releases/latest).
 4. Install and run the program.
     - If you do not have the latest version of .NET you will not be able to open the program and will get an error. If this happens download the latest version of .NET here  [.NET downloads](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
@@ -80,8 +79,8 @@ For more information, check out the discord server [here](https://discord.gg/T5s
     - This will create a backup, so that if you want to revert the changes you can clear all of them by clicking `Help` → `Start Over`.
 6. Click `Mods` → `Import Mod Packs`
 7. Select `Material 4K-UI BLACK (version).ttmp2` and hit open button.
-    - If you want to apply additional OPTIONS, select the OPTIONS ttmp2 in the same way as `Step 6 to 7`.\
-Any mods containing conflicting textures will be loaded in the order that they were installed meaning installing an option __before__ the main file will not work as expected. It is generally best to install mods one by one instead of all at once
+    - If you want to apply additional OPTIONS, select the OPTIONS ttmp2 in the same way as `step 6 to 7`
+    - Any mods containing conflicting textures will be loaded in the order that they were installed meaning installing an option __before__ the main file will not work as expected. It is generally best to install mods one by one instead of all at once
 8. All of the textures will now be loaded next time you launch FFXIV.
 
 ## IN-GAME SETTING
