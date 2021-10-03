@@ -1,138 +1,162 @@
-![logo](ModPacks/Resources/Preview/github_logo_new.png)
+![logo](ModPacks/Resources/Preview/github_logo_w902.png)
 
-## FFXIV MATERIAL UI
+## FFXIV Material UI (Discord/Black)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/skotlex/ffxiv-material-ui) ![GitHub all releases](https://img.shields.io/github/downloads/skotlex/ffxiv-material-ui/total) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/skotlex/ffxiv-material-ui/latest/total) [![GitHub license](https://img.shields.io/github/license/skotlex/ffxiv-material-ui)](https://github.com/skotlex/ffxiv-material-ui/blob/master/LICENSE) [![Discord Shield](https://discordapp.com/api/guilds/838030043518599228/widget.png?style=shield)](https://discord.gg/T5sWUpgNPD)
 
-## CONTENTS
-1. [DISCLAIMERS](#disclaimers)
-2. [INTRO](#intro)
-3. [PREVIEWS](#previews)
-4. [INSTALL GUIDE](#install-guide)
-5. [IN-GAME SETTING](#in-game-setting)
-6. [OPTIONS](#options)
-7. [FAQ](#faq)
-8. [SPECIAL THANKS](#special-thanks)
-9. [CREDIT AND SUPPORT](#credit-and-support)
-10. [CONTACTS](#contacts)
+*※ The document was written using a translator. Please excuse me even if the context is a little strange.*
 
-## DISCLAIMERS
->Using third party tools for FFXIV is against the Square Enix User Agreement, and should be done at your own risk as it __could__ result in an account ban. However, Yoshi-P (the game's producer) has said in interviews that while the official stance on third party tools will always be "no", Square Enix both cannot and do not want to see what is installed on your PC. It is a complicated, grey-zone issue that usually ends in circular arguments and it just never ends.
->
->Some tools, like combat trackers, are abused to harass other players while others have a lewd/illegal nature to them, and so Square Enix must be able to ban accounts who use modding for this purpose.
->
->There are a few rules of thumb when it comes to third party tools.
-* Do not harass people.
-* Do not post your character name visibly in modded screenshots.
-* __DO NOT POST MODDED SCREENSHOTS WITH THE SQUARE ENIX COPYRIGHT INFORMATION VISIBLE__.
->
->Square Enix has a much lower tolerance for nsfw mods and will aggressively take down anything that is not "brand safe"
->
->—
->
-><i>The first rule of mods, is don't talk about mods.</i>
->
->Yoshi P interview for more context on this matter: https://www.youtube.com/watch?v=e_i6mjiGerU
+## Contents
+1. [Intro](#intro)  
+2. [Mod downloads](#mod-downloads)  
+3. [Preview mods](#preview-mods)  
+4. [Preview options](#preview-options)
+5. [Installing the mod](#installing-the-mod)  
+6. [What to do for new FFXIV patches](#what-to-do-for-new-ffxiv-patches)  
+7. [Disclaimers](#disclaimers)  
+8. [FAQ](#faq)  
+9. [Special thanks](#special-thanks)  
+10. [Credit and support](#credit-and-support)  
+11. [Contacts](#contacts)
 
-## INTRO
+
+---
+# **Attention!**
+#### At the time of writing, this mod only supports the Standard (HD/full HD) icons.
+* 4K support is being worked on and is aiming to be implemented before 6.0, please see [here](https://github.com/skotlex/ffxiv-material-ui/issues/214) for more information.
+
+#### At the time of writing, this mod only supports the Dark system color scheme.
+* At this time, no other themes are supported nor are there any plans to do so.  
+
+The System theme is changed by selecting the System Configuration menu, then Theme settings, then selecting Dark in the dropdown menu. <br> 
+<details> <summary>Click for visual reference</summary>
+  
+
+![screenshot](ModPacks/Resources/Theme.png)
+  
+
+</details>
+
+#### Icons are missing or displaying incorrectly after the 5.5x patches
+* In the past updating the game client without disabling mods usually worked fine, however, it was not in best practice to do so. Updating to 5.5 with mods enabled broke most installs as SquareEnix implemented a few major changes in how data was stored, which resulted in TexTools injecting mods into the wrong location.
+
+You can try to resolve this by ensuring you have all the .ttmp2 files saved from any mods you wish to keep (or the download location to reobtain the information), then open textools, download the index backups, and then select "start over". The index backups can also be downloaded from [here](https://github.com/skotlex/ffxiv-material-ui/tree/master/Index_Backups). If none of those work, you will need to completely reinstall the game.
+
+---
+## Intro
 Material UI replaces FFXIV's built-in theme (dark-theme)
 
 There are two kinds, the concepts for each theme are as follows:
 
-* **Black**: Targeting modern dark color, Edged UI
+1. **Discord**: Discord color with default UI concept
+2. **Black**: Targeting modern dark color, Edged UI
 
-* **Discord version**: Unsupported until further notice. Please refer to [Issue #232](issues/232) for more information.
+## Mod downloads
+Download Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/releases)
 
-## PREVIEWS
-<!--
-<b><font size="+1"><details><summary>Preview main mod</summary></font></b>
-
-<!-- <img src=""> -->
-Image Pending
-<!--
-</details>
-
-<b><font size="+1"><details><summary>Preview options</summary></font></b>
-These options will work with all styles
-
-Black circle minimap<br>
-<img src="ModPacks/OPTIONS HD/01_Minimap/05_black-circle-minimap/black-circle-minimap.png">
-
-Squared corner job icons
-<br><img src="ModPacks\OPTIONS HD\03_Icon\02_edge-background-job-icon\02-1_edge-background-job-icon.png"> -->
-
-For more information, check out the discord server [here]()
-
-</details>
-
-
-## INSTALL GUIDE
-#### If the game is running before following the guide, close it.
-1. Download the latest version of the Material UI and OPTIONS from the [Releases page](releases/latest).
-![down_cnts](ModPacks/Resources/Preview/down_cnts.png)
-2. Unzip the downloaded compressed files to somewhere you can find them.  
- - If you already have TexTools installed skip to step 5
-3. Download the latest version of the `Install_TexTools.exe` file from [here](https://github.com/TexTools/FFXIV_TexTools_UI/releases/latest).
-4. Install and run the program.
-    - If you do not have the latest version of .NET you will not be able to open the program and will get an error. If this happens download the latest version of .NET here  [.NET downloads](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
-    - Try opening the program again.
-    - For additional troubleshooting, join their discord [here](https://discord.gg/ffxivtextools).
-5. Click `Help` → `Backup Index Files` menu.
-    - This will create a backup, so that if you want to revert the changes you can clear all of them by clicking `Help` → `Start Over`.
-6. Click `Mods` → `Import Mod Packs`
-7. Select `Material 4K-UI BLACK (version).ttmp2` and hit open button.
-    - If you want to apply additional OPTIONS, select the OPTIONS ttmp2 in the same way as `Step 6 to 7`.\
-Any mods containing conflicting textures will be loaded in the order that they were installed meaning installing an option __before__ the main file will not work as expected. It is generally best to install mods one by one instead of all at once
-8. All of the textures will now be loaded next time you launch FFXIV.
-
-## IN-GAME SETTING
-If mods is not applied when you start the game, you have to change the in-game setting.
-#### Set 4K UI resolution
-1. Click `ESC key on keyboard` → `System Configuration` → `Graphic Settings` tab → `UI Resolution Settings`
-2. Choose the option: `High (4k)`
-    - This is an in-game setting that does NOT require a 4k monitor.
-    - It should makes the UI assets render at a higher resolution if you do have a 4k monitor.
-3. Reset the game.
-
-<details><summary>Click for visual reference</summary>
-
-![guide1](ModPacks/Resources/Preview/guide1.png)
-
-</details>
-
-#### Set color scheme
-1. Click `ESC key on keyboard` → `System Configuration` → `Theme Settings`
-2. Choose the option: `Dark`
-3. Reset the game.
+## Preview mods
+There are also a lot of other things that have been changed. Check out the in-game screenshots!  
+<b><i>※ All images can be viewed as original when clicked</i></b>
 
 <details>
-<summary>Click for visual reference</summary>
+<summary>Click to expand</summary>
 
-![guide2](ModPacks/Resources/Preview/guide2.png)
+### ◇ Discord
+![preview discord](ModPacks/Resources/Preview/preview(discord).png)
+
+### ◇ Black
+![preview black](ModPacks/Resources/Preview/preview(black).png)
+
+### ◇ Simple JobHud bar
+![preview jobhud bar](ModPacks/Resources/Preview/jobhud.png)
+
+### ◇ Treasure Map Coordinate
+![preview treasure map](ModPacks/Resources/Preview/mappack.png)
 
 </details>
 
-## OPTIONS
-If you download and unzip the OPTIONS.zip file of [INSTALL GUIDE](#install-guide), there is a preview(.png) file in each folder. Look at the image and if there's anything you like, apply it.
+## Preview options
+Document Link: [Click me](https://github.com/skotlex/ffxiv-material-ui/blob/master/preview_options.md)
+
+## Installing the mod
+
+1. Download and install FFXIV TexTools
+
+***FOR TEXTOOLS, RECOMMEND TO USE THE LATEST VERSION.***
+
+| Program name  | Download page |
+|---|---|
+| TexTools | [https://www.ffxiv-textools.net](https://www.ffxiv-textools.net) |
+
+2. Back up the following files in advance before you work *(This is a preparation for mode failure)*
+
+Hit [Help → Backup Index Files] menu.
+
+**Source index-path**: `{Folder with ff14 installed}\game\sqpack\ffxiv`
+
+| File list |   |
+|---|---|
+| 010000.win32.index | 010000.win32.index2 |
+| 040000.win32.index | 040000.win32.index2 |
+| 060000.win32.index | 060000.win32.index2 |
+
+3. Apply Material-UI mod
+
+Select and apply(import modpack) the *Material UI.ttmp2* file from the *[Mods → Import ModPacks]* menu
+
+4. Enjoy!
+
+## What to do for new FFXIV patches
+
+I recommend making a mod backup, you can do this by selecting `Make Modpack` in the mods menu, selecting every active mod, and hitting create. Before downloading a new FFXIV patch it is safest to hit the `Start Over` option in the TexTools help menu, installing the FFXIV patch, then importing the mod backup you created previously. While these precautions don't always turn out to be necessary, you risk damaging your install if you don't take them.
+
+If you difficult to understand what's written above, follow the steps below.
+1. Hit `[Help → Start Over]`
+2. Download new FFXIV patch
+3. Hit `[Help → Backup Index Files]`
+4. Import Material-UI mod
+
+If you fail to back up the index files for any reason, you can download them from my github. [download link](https://github.com/skotlex/ffxiv-material-ui/tree/master/Index_Backups)
+
+## Disclaimers
+
+Use of this program is at your own risk. Square Enix does not permit the use of any third party tools, even those which do not modify the game. They have stated in interviews that they did not view parsers as a significant problem unless players use them to harass other players
 
 ## FAQ
-Please refer to a separate page that collects questions that people ask often. [FAQ page](FAQ.md)\
-**If you're not familiar with TexTool and mods, or if it's your first time, I strongly recommend you read the page.**
 
-## SPECIAL THANKS
+**Can you change the color of the HP/MP/Gauge bars?**
+
+Not currently. It's not that it is impossible, just not very intuitive. More than anything else, you can't get the color you want perfectly.
+
+**How can I apply the option?**
+
+1. Apply Material-UI(discord or black).ttmp2
+2. Download OPTIONS.zip and move to the wanted folder. (ex. ~\OPTIONS\01_Minimap\03_discord-square-minimap)
+3. Apply ttmp2 in the folder.
+
+**How do I use Simple job hud?**
+
+It is only possible in simple job hud. Please refer to the following site:
+[SQEX simple hud guide](https://na.finalfantasyxiv.com/blog/002175.html)
+
+## Special thanks
+
 I always thank [*rien-doll*](https://github.com/rien-doll/minimal-ui) for inspiring me and for giving me knowledge. Her creativity always stimulates me. Most of all, I would like to thank everyone who uses this UI.
 
-## CREDIT AND SUPPORT
+## Credit and support
+
 This mod was created by *skotlex* and help of all testers.
 
 If you like my work and want to support it, you can do it [here](https://ko-fi.com/skotlex). Of course, there is no coercion in this sponsorship, and it's just your choice.
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O8YTN7)
 
-## CONTACTS
+## Contacts
 
-Please use [my github issue page](issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records, and it's gonna be easy to manage.
+If you want to ask me something, I am willing to talk.
 
-Please understand the awkwardness of the sentences because I am not an English user.
+However, if possible, please use [my github issue page](https://github.com/skotlex/ffxiv-material-ui/issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records, and it's gonna be easy to manage.
 
-* DISCORD: [JOIN our channel](https://discord.gg/T5sWUpgNPD)
-* TWITTER: [@skotlex](https://twitter.com/skotlex)
+And please understand the awkwardness of the sentence because I am not an English user.
+
+* Discord: [[JOIN]](https://discord.gg/T5sWUpgNPD)
+* Twitter: @skotlex
