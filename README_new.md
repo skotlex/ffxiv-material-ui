@@ -130,9 +130,10 @@ If you like my work and want to support it, you can do it [here](https://ko-fi.c
 
 ## CONTACTS
 
-Please use [my github issue page](issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records, and it's gonna be easy to manage.
+Please use [my github issue page](issues) for various suggestions, questions, and requests for material-UI. It's gonna be easy to keep records and easy to manage.
 
-Please understand the awkwardness of the sentences because I am not an English user.
+If you have any questions or concerns, I'm willing to talk but please understand the awkwardness of the sentences because I am not an English user.
 
-* DISCORD: [JOIN our channel](https://discord.gg/T5sWUpgNPD)
-* TWITTER: [@skotlex](https://twitter.com/skotlex)
+* Keep in touch with me on:
+ * DISCORD: [JOIN our channel](https://discord.gg/T5sWUpgNPD)
+ * TWITTER: [@skotlex](https://twitter.com/skotlex)
