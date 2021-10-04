@@ -42,22 +42,11 @@ There are two kinds, the concepts for each theme are as follows:
 * **Discord**: Unsupported until further notice. Please refer to [Issue #232](https://github.com/skotlex/ffxiv-material-ui/issues/232) for more information.
 
 ## PREVIEWS
-<!--
-<b><font size="+1"><details><summary>Preview main mod</summary></font></b>
-
-<!-- <img src=""> -->
+#### MAIN MODS (BLACK)
 Image Pending
-<!--
-</details>
 
-<b><font size="+1"><details><summary>Preview options</summary></font></b>
-These options will work with all styles
-
-Black circle minimap<br>
-<img src="ModPacks/OPTIONS HD/01_Minimap/05_black-circle-minimap/black-circle-minimap.png">
-
-Squared corner job icons
-<br><img src="ModPacks\OPTIONS HD\03_Icon\02_edge-background-job-icon\02-1_edge-background-job-icon.png"> -->
+#### OPTIONS
+![option_preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_option_preview.png)
 
 For more information, check out the discord server [here](https://discord.gg/T5sWUpgNPD)
 
