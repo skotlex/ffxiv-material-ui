@@ -43,7 +43,7 @@ There are two kinds, the concepts for each theme are as follows:
 
 ## PREVIEWS
 #### MAIN MODS (BLACK)
-Image Pending
+![mods_preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_mods_preview.png)
 
 #### OPTIONS
 ![option_preview](https://github.com/skotlex/ffxiv-material-ui/blob/master/ModPacks/Resources/Preview/github_option_preview.png)
