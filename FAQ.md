@@ -11,13 +11,13 @@ If the existing texture is broken however, the index file is probably broken. Th
   - [Issues#181 Broken Lakeland map](https://github.com/skotlex/ffxiv-material-ui/issues/181)
 
 ## What should I do when a new patch comes out?
-1. Make a backup of your current mods! (Click `Mods` → `Create Modpack` → `Basic ModPack`)
+1. Make a backup of your current mods (Click `Mods` → `Create Modpack` → `Basic ModPack`)
     - In the Name text field give it a fitting name, for example 'Backup', and click `SELECT ACTIVE`
     - Finally click `CREATE MODPACK` in the bottom right to create your backup modpack.
 2. Prior to patching your game perform a 'Start Over'. (Click `Help` → `Start Over`, then click Yes.)
 3. Close TexTools and patch your game.
 4. Relaunch TexTools.
-5. Reinstall your backup modpack! (Click `Mods` → `Import Modpack`)
+5. Reinstall your backup modpack (Click `Mods` → `Import Modpack`)
     - Navigate to the modpack created during `Step 1` (documents/textools folder by default) and import your modpack.
 
 ## How can I apply the option?
