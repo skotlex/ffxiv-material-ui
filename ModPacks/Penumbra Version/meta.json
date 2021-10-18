@@ -1,0 +1,1506 @@
+{
+  "FileVersion": 0,
+  "Name": "Material UI",
+  "Author": "skotlex",
+  "Description": "Material UI replaces FFXIV's built-in theme (dark-theme). This mod is the Black version which targets a more modern dark color with an edged UI. Currently this modpack only supports the 4K HUD resoltion settings. If you do not have this enabled at this time, you can change over to by by doing the following:\n\n1. Click ESC key on keyboard → System Configuration → Graphic Settings tab → UI Resolution Settings\n2. Choose the option: High (4k)\n3. Reset your game.\n\nPlease note that if you change any of the mod's configurations you will need to logout and log back in again as redraws will not effect your HUD and System UI.",
+  "Version": "5.5.0",
+  "Website": "https://github.com/skotlex/ffxiv-material-ui/",
+  "FileSwaps": {},
+  "Groups": {
+    "Job Icons (Party List)": {
+      "GroupName": "Job Icons (Party List)",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default (Glowing Icons)",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\icon\\062000\\062040_hr1.tex": [
+              "ui/icon/062000/062040_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062101_hr1.tex": [
+              "ui/icon/062000/062101_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062102_hr1.tex": [
+              "ui/icon/062000/062102_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062103_hr1.tex": [
+              "ui/icon/062000/062103_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062104_hr1.tex": [
+              "ui/icon/062000/062104_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062105_hr1.tex": [
+              "ui/icon/062000/062105_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062106_hr1.tex": [
+              "ui/icon/062000/062106_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062107_hr1.tex": [
+              "ui/icon/062000/062107_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062108_hr1.tex": [
+              "ui/icon/062000/062108_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062109_hr1.tex": [
+              "ui/icon/062000/062109_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062110_hr1.tex": [
+              "ui/icon/062000/062110_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062111_hr1.tex": [
+              "ui/icon/062000/062111_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062112_hr1.tex": [
+              "ui/icon/062000/062112_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062113_hr1.tex": [
+              "ui/icon/062000/062113_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062114_hr1.tex": [
+              "ui/icon/062000/062114_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062115_hr1.tex": [
+              "ui/icon/062000/062115_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062116_hr1.tex": [
+              "ui/icon/062000/062116_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062117_hr1.tex": [
+              "ui/icon/062000/062117_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062118_hr1.tex": [
+              "ui/icon/062000/062118_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062119_hr1.tex": [
+              "ui/icon/062000/062119_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062120_hr1.tex": [
+              "ui/icon/062000/062120_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062121_hr1.tex": [
+              "ui/icon/062000/062121_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062122_hr1.tex": [
+              "ui/icon/062000/062122_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062123_hr1.tex": [
+              "ui/icon/062000/062123_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062124_hr1.tex": [
+              "ui/icon/062000/062124_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062125_hr1.tex": [
+              "ui/icon/062000/062125_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062126_hr1.tex": [
+              "ui/icon/062000/062126_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062127_hr1.tex": [
+              "ui/icon/062000/062127_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062128_hr1.tex": [
+              "ui/icon/062000/062128_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062129_hr1.tex": [
+              "ui/icon/062000/062129_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062130_hr1.tex": [
+              "ui/icon/062000/062130_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062131_hr1.tex": [
+              "ui/icon/062000/062131_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062132_hr1.tex": [
+              "ui/icon/062000/062132_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062133_hr1.tex": [
+              "ui/icon/062000/062133_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062134_hr1.tex": [
+              "ui/icon/062000/062134_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062135_hr1.tex": [
+              "ui/icon/062000/062135_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062136_hr1.tex": [
+              "ui/icon/062000/062136_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062137_hr1.tex": [
+              "ui/icon/062000/062137_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062138_hr1.tex": [
+              "ui/icon/062000/062138_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062139_hr1.tex": [
+              "ui/icon/062000/062139_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062141_hr1.tex": [
+              "ui/icon/062000/062141_hr1.tex"
+            ],
+            "ui\\uld\\partylisttargetbase_hr1.tex": [
+              "ui/uld/partylisttargetbase_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Default with Different Ranged DPS Color",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062040_hr1.tex": [
+              "ui/icon/062000/062040_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062101_hr1.tex": [
+              "ui/icon/062000/062101_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062102_hr1.tex": [
+              "ui/icon/062000/062102_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062103_hr1.tex": [
+              "ui/icon/062000/062103_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062104_hr1.tex": [
+              "ui/icon/062000/062104_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062105_hr1.tex": [
+              "ui/icon/062000/062105_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062106_hr1.tex": [
+              "ui/icon/062000/062106_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062107_hr1.tex": [
+              "ui/icon/062000/062107_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062108_hr1.tex": [
+              "ui/icon/062000/062108_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062109_hr1.tex": [
+              "ui/icon/062000/062109_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062110_hr1.tex": [
+              "ui/icon/062000/062110_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062111_hr1.tex": [
+              "ui/icon/062000/062111_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062112_hr1.tex": [
+              "ui/icon/062000/062112_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062113_hr1.tex": [
+              "ui/icon/062000/062113_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062114_hr1.tex": [
+              "ui/icon/062000/062114_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062115_hr1.tex": [
+              "ui/icon/062000/062115_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062116_hr1.tex": [
+              "ui/icon/062000/062116_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062117_hr1.tex": [
+              "ui/icon/062000/062117_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062118_hr1.tex": [
+              "ui/icon/062000/062118_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062119_hr1.tex": [
+              "ui/icon/062000/062119_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062120_hr1.tex": [
+              "ui/icon/062000/062120_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062121_hr1.tex": [
+              "ui/icon/062000/062121_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062122_hr1.tex": [
+              "ui/icon/062000/062122_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062123_hr1.tex": [
+              "ui/icon/062000/062123_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062124_hr1.tex": [
+              "ui/icon/062000/062124_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062125_hr1.tex": [
+              "ui/icon/062000/062125_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062126_hr1.tex": [
+              "ui/icon/062000/062126_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062127_hr1.tex": [
+              "ui/icon/062000/062127_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062128_hr1.tex": [
+              "ui/icon/062000/062128_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062129_hr1.tex": [
+              "ui/icon/062000/062129_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062130_hr1.tex": [
+              "ui/icon/062000/062130_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062131_hr1.tex": [
+              "ui/icon/062000/062131_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062132_hr1.tex": [
+              "ui/icon/062000/062132_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062133_hr1.tex": [
+              "ui/icon/062000/062133_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062134_hr1.tex": [
+              "ui/icon/062000/062134_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062135_hr1.tex": [
+              "ui/icon/062000/062135_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062136_hr1.tex": [
+              "ui/icon/062000/062136_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062137_hr1.tex": [
+              "ui/icon/062000/062137_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062138_hr1.tex": [
+              "ui/icon/062000/062138_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062139_hr1.tex": [
+              "ui/icon/062000/062139_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Traditional Square",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062040_hr1.tex": [
+              "ui/icon/062000/062040_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062101_hr1.tex": [
+              "ui/icon/062000/062101_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062102_hr1.tex": [
+              "ui/icon/062000/062102_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062103_hr1.tex": [
+              "ui/icon/062000/062103_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062104_hr1.tex": [
+              "ui/icon/062000/062104_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062105_hr1.tex": [
+              "ui/icon/062000/062105_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062106_hr1.tex": [
+              "ui/icon/062000/062106_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062107_hr1.tex": [
+              "ui/icon/062000/062107_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062108_hr1.tex": [
+              "ui/icon/062000/062108_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062109_hr1.tex": [
+              "ui/icon/062000/062109_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062110_hr1.tex": [
+              "ui/icon/062000/062110_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062111_hr1.tex": [
+              "ui/icon/062000/062111_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062112_hr1.tex": [
+              "ui/icon/062000/062112_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062113_hr1.tex": [
+              "ui/icon/062000/062113_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062114_hr1.tex": [
+              "ui/icon/062000/062114_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062115_hr1.tex": [
+              "ui/icon/062000/062115_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062116_hr1.tex": [
+              "ui/icon/062000/062116_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062117_hr1.tex": [
+              "ui/icon/062000/062117_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062118_hr1.tex": [
+              "ui/icon/062000/062118_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062119_hr1.tex": [
+              "ui/icon/062000/062119_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062120_hr1.tex": [
+              "ui/icon/062000/062120_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062121_hr1.tex": [
+              "ui/icon/062000/062121_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062122_hr1.tex": [
+              "ui/icon/062000/062122_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062123_hr1.tex": [
+              "ui/icon/062000/062123_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062124_hr1.tex": [
+              "ui/icon/062000/062124_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062125_hr1.tex": [
+              "ui/icon/062000/062125_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062126_hr1.tex": [
+              "ui/icon/062000/062126_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062127_hr1.tex": [
+              "ui/icon/062000/062127_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062128_hr1.tex": [
+              "ui/icon/062000/062128_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062129_hr1.tex": [
+              "ui/icon/062000/062129_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062130_hr1.tex": [
+              "ui/icon/062000/062130_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062131_hr1.tex": [
+              "ui/icon/062000/062131_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062132_hr1.tex": [
+              "ui/icon/062000/062132_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062133_hr1.tex": [
+              "ui/icon/062000/062133_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062134_hr1.tex": [
+              "ui/icon/062000/062134_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062135_hr1.tex": [
+              "ui/icon/062000/062135_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062136_hr1.tex": [
+              "ui/icon/062000/062136_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062137_hr1.tex": [
+              "ui/icon/062000/062137_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062138_hr1.tex": [
+              "ui/icon/062000/062138_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062139_hr1.tex": [
+              "ui/icon/062000/062139_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\icon\\062000\\062141_hr1.tex": [
+              "ui/icon/062000/062141_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square\\ui\\uld\\partylisttargetbase_hr1.tex": [
+              "ui/uld/partylisttargetbase_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Traditional Square with Different Ranged DPS Color",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062040_hr1.tex": [
+              "ui/icon/062000/062040_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062101_hr1.tex": [
+              "ui/icon/062000/062101_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062102_hr1.tex": [
+              "ui/icon/062000/062102_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062103_hr1.tex": [
+              "ui/icon/062000/062103_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062104_hr1.tex": [
+              "ui/icon/062000/062104_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062105_hr1.tex": [
+              "ui/icon/062000/062105_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062106_hr1.tex": [
+              "ui/icon/062000/062106_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062107_hr1.tex": [
+              "ui/icon/062000/062107_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062108_hr1.tex": [
+              "ui/icon/062000/062108_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062109_hr1.tex": [
+              "ui/icon/062000/062109_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062110_hr1.tex": [
+              "ui/icon/062000/062110_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062111_hr1.tex": [
+              "ui/icon/062000/062111_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062112_hr1.tex": [
+              "ui/icon/062000/062112_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062113_hr1.tex": [
+              "ui/icon/062000/062113_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062114_hr1.tex": [
+              "ui/icon/062000/062114_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062115_hr1.tex": [
+              "ui/icon/062000/062115_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062116_hr1.tex": [
+              "ui/icon/062000/062116_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062117_hr1.tex": [
+              "ui/icon/062000/062117_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062118_hr1.tex": [
+              "ui/icon/062000/062118_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062119_hr1.tex": [
+              "ui/icon/062000/062119_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062120_hr1.tex": [
+              "ui/icon/062000/062120_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062121_hr1.tex": [
+              "ui/icon/062000/062121_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062122_hr1.tex": [
+              "ui/icon/062000/062122_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062123_hr1.tex": [
+              "ui/icon/062000/062123_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062124_hr1.tex": [
+              "ui/icon/062000/062124_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062125_hr1.tex": [
+              "ui/icon/062000/062125_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062126_hr1.tex": [
+              "ui/icon/062000/062126_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062127_hr1.tex": [
+              "ui/icon/062000/062127_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062128_hr1.tex": [
+              "ui/icon/062000/062128_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062129_hr1.tex": [
+              "ui/icon/062000/062129_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062130_hr1.tex": [
+              "ui/icon/062000/062130_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062131_hr1.tex": [
+              "ui/icon/062000/062131_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062132_hr1.tex": [
+              "ui/icon/062000/062132_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062133_hr1.tex": [
+              "ui/icon/062000/062133_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062134_hr1.tex": [
+              "ui/icon/062000/062134_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062135_hr1.tex": [
+              "ui/icon/062000/062135_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062136_hr1.tex": [
+              "ui/icon/062000/062136_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062137_hr1.tex": [
+              "ui/icon/062000/062137_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062138_hr1.tex": [
+              "ui/icon/062000/062138_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062139_hr1.tex": [
+              "ui/icon/062000/062139_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\icon\\062000\\062141_hr1.tex": [
+              "ui/icon/062000/062141_hr1.tex"
+            ],
+            "Party List\\Job Icons\\Traditional Square with Different Ranged DPS Color\\ui\\uld\\partylisttargetbase_hr1.tex": [
+              "ui/uld/partylisttargetbase_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Job Icons (PF and Gearset)": {
+      "GroupName": "Job Icons (PF and Gearset)",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default (Black Style)",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\icon\\062000\\062001_hr1.tex": [
+              "ui/icon/062000/062001_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062002_hr1.tex": [
+              "ui/icon/062000/062002_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062003_hr1.tex": [
+              "ui/icon/062000/062003_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062004_hr1.tex": [
+              "ui/icon/062000/062004_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062005_hr1.tex": [
+              "ui/icon/062000/062005_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062006_hr1.tex": [
+              "ui/icon/062000/062006_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062007_hr1.tex": [
+              "ui/icon/062000/062007_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062008_hr1.tex": [
+              "ui/icon/062000/062008_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062009_hr1.tex": [
+              "ui/icon/062000/062009_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062010_hr1.tex": [
+              "ui/icon/062000/062010_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062011_hr1.tex": [
+              "ui/icon/062000/062011_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062012_hr1.tex": [
+              "ui/icon/062000/062012_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062013_hr1.tex": [
+              "ui/icon/062000/062013_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062014_hr1.tex": [
+              "ui/icon/062000/062014_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062015_hr1.tex": [
+              "ui/icon/062000/062015_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062016_hr1.tex": [
+              "ui/icon/062000/062016_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062017_hr1.tex": [
+              "ui/icon/062000/062017_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062018_hr1.tex": [
+              "ui/icon/062000/062018_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062019_hr1.tex": [
+              "ui/icon/062000/062019_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062020_hr1.tex": [
+              "ui/icon/062000/062020_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062021_hr1.tex": [
+              "ui/icon/062000/062021_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062022_hr1.tex": [
+              "ui/icon/062000/062022_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062023_hr1.tex": [
+              "ui/icon/062000/062023_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062024_hr1.tex": [
+              "ui/icon/062000/062024_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062025_hr1.tex": [
+              "ui/icon/062000/062025_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062026_hr1.tex": [
+              "ui/icon/062000/062026_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062027_hr1.tex": [
+              "ui/icon/062000/062027_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062028_hr1.tex": [
+              "ui/icon/062000/062028_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062029_hr1.tex": [
+              "ui/icon/062000/062029_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062030_hr1.tex": [
+              "ui/icon/062000/062030_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062031_hr1.tex": [
+              "ui/icon/062000/062031_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062032_hr1.tex": [
+              "ui/icon/062000/062032_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062033_hr1.tex": [
+              "ui/icon/062000/062033_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062034_hr1.tex": [
+              "ui/icon/062000/062034_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062035_hr1.tex": [
+              "ui/icon/062000/062035_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062036_hr1.tex": [
+              "ui/icon/062000/062036_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062037_hr1.tex": [
+              "ui/icon/062000/062037_hr1.tex"
+            ],
+            "ui\\icon\\062000\\062038_hr1.tex": [
+              "ui/icon/062000/062038_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Glowing Icons",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062001_hr1.tex": [
+              "ui/icon/062000/062001_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062002_hr1.tex": [
+              "ui/icon/062000/062002_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062003_hr1.tex": [
+              "ui/icon/062000/062003_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062004_hr1.tex": [
+              "ui/icon/062000/062004_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062005_hr1.tex": [
+              "ui/icon/062000/062005_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062006_hr1.tex": [
+              "ui/icon/062000/062006_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062007_hr1.tex": [
+              "ui/icon/062000/062007_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062008_hr1.tex": [
+              "ui/icon/062000/062008_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062009_hr1.tex": [
+              "ui/icon/062000/062009_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062010_hr1.tex": [
+              "ui/icon/062000/062010_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062011_hr1.tex": [
+              "ui/icon/062000/062011_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062012_hr1.tex": [
+              "ui/icon/062000/062012_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062013_hr1.tex": [
+              "ui/icon/062000/062013_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062014_hr1.tex": [
+              "ui/icon/062000/062014_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062015_hr1.tex": [
+              "ui/icon/062000/062015_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062016_hr1.tex": [
+              "ui/icon/062000/062016_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062017_hr1.tex": [
+              "ui/icon/062000/062017_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062018_hr1.tex": [
+              "ui/icon/062000/062018_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062019_hr1.tex": [
+              "ui/icon/062000/062019_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062020_hr1.tex": [
+              "ui/icon/062000/062020_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062021_hr1.tex": [
+              "ui/icon/062000/062021_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062022_hr1.tex": [
+              "ui/icon/062000/062022_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062023_hr1.tex": [
+              "ui/icon/062000/062023_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062024_hr1.tex": [
+              "ui/icon/062000/062024_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062025_hr1.tex": [
+              "ui/icon/062000/062025_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062026_hr1.tex": [
+              "ui/icon/062000/062026_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062027_hr1.tex": [
+              "ui/icon/062000/062027_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062028_hr1.tex": [
+              "ui/icon/062000/062028_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062029_hr1.tex": [
+              "ui/icon/062000/062029_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062030_hr1.tex": [
+              "ui/icon/062000/062030_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062031_hr1.tex": [
+              "ui/icon/062000/062031_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062032_hr1.tex": [
+              "ui/icon/062000/062032_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062033_hr1.tex": [
+              "ui/icon/062000/062033_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062034_hr1.tex": [
+              "ui/icon/062000/062034_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062035_hr1.tex": [
+              "ui/icon/062000/062035_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062036_hr1.tex": [
+              "ui/icon/062000/062036_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062037_hr1.tex": [
+              "ui/icon/062000/062037_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing\\ui\\icon\\062000\\062038_hr1.tex": [
+              "ui/icon/062000/062038_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Glowing Icons w/ Different Ranged DPS Color",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062001_hr1.tex": [
+              "ui/icon/062000/062001_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062002_hr1.tex": [
+              "ui/icon/062000/062002_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062003_hr1.tex": [
+              "ui/icon/062000/062003_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062004_hr1.tex": [
+              "ui/icon/062000/062004_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062005_hr1.tex": [
+              "ui/icon/062000/062005_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062006_hr1.tex": [
+              "ui/icon/062000/062006_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062007_hr1.tex": [
+              "ui/icon/062000/062007_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062008_hr1.tex": [
+              "ui/icon/062000/062008_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062009_hr1.tex": [
+              "ui/icon/062000/062009_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062010_hr1.tex": [
+              "ui/icon/062000/062010_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062011_hr1.tex": [
+              "ui/icon/062000/062011_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062012_hr1.tex": [
+              "ui/icon/062000/062012_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062013_hr1.tex": [
+              "ui/icon/062000/062013_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062014_hr1.tex": [
+              "ui/icon/062000/062014_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062015_hr1.tex": [
+              "ui/icon/062000/062015_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062017_hr1.tex": [
+              "ui/icon/062000/062017_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062018_hr1.tex": [
+              "ui/icon/062000/062018_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062019_hr1.tex": [
+              "ui/icon/062000/062019_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062020_hr1.tex": [
+              "ui/icon/062000/062020_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062021_hr1.tex": [
+              "ui/icon/062000/062021_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062022_hr1.tex": [
+              "ui/icon/062000/062022_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062023_hr1.tex": [
+              "ui/icon/062000/062023_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062024_hr1.tex": [
+              "ui/icon/062000/062024_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062025_hr1.tex": [
+              "ui/icon/062000/062025_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062026_hr1.tex": [
+              "ui/icon/062000/062026_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062027_hr1.tex": [
+              "ui/icon/062000/062027_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062028_hr1.tex": [
+              "ui/icon/062000/062028_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062029_hr1.tex": [
+              "ui/icon/062000/062029_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062030_hr1.tex": [
+              "ui/icon/062000/062030_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062031_hr1.tex": [
+              "ui/icon/062000/062031_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062032_hr1.tex": [
+              "ui/icon/062000/062032_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062033_hr1.tex": [
+              "ui/icon/062000/062033_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062034_hr1.tex": [
+              "ui/icon/062000/062034_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062035_hr1.tex": [
+              "ui/icon/062000/062035_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062036_hr1.tex": [
+              "ui/icon/062000/062036_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062037_hr1.tex": [
+              "ui/icon/062000/062037_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062038_hr1.tex": [
+              "ui/icon/062000/062038_hr1.tex"
+            ],
+            "Content Job Icons\\Glowing with Different Ranged DPS Color\\ui\\icon\\062000\\062016_hr1.tex": [
+              "ui/icon/062000/062016_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Job Icons (Macros)": {
+      "GroupName": "Job Icons (Macros)",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default (Black Style)",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\uld\\icona_frame_hr1.tex": [
+              "ui/uld/icona_frame_hr1.tex"
+            ],
+            "ui\\uld\\icona_recast_hr1.tex": [
+              "ui/uld/icona_recast_hr1.tex"
+            ],
+            "ui\\uld\\icona_recast2_hr1.tex": [
+              "ui/uld/icona_recast2_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Black Style without Gear Cog",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Macro Job Icons\\Black Style with no Gear Cog\\ui\\uld\\icona_frame_hr1.tex": [
+              "ui/uld/icona_frame_hr1.tex"
+            ],
+            "Macro Job Icons\\Black Style with no Gear Cog\\ui\\uld\\icona_recast_hr1.tex": [
+              "ui/uld/icona_recast_hr1.tex"
+            ],
+            "Macro Job Icons\\Black Style with no Gear Cog\\ui\\uld\\icona_recast2_hr1.tex": [
+              "ui/uld/icona_recast2_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Glowing Icons",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062801_hr1.tex": [
+              "ui/icon/062000/062801_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062802_hr1.tex": [
+              "ui/icon/062000/062802_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062803_hr1.tex": [
+              "ui/icon/062000/062803_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062804_hr1.tex": [
+              "ui/icon/062000/062804_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062805_hr1.tex": [
+              "ui/icon/062000/062805_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062806_hr1.tex": [
+              "ui/icon/062000/062806_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062807_hr1.tex": [
+              "ui/icon/062000/062807_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062808_hr1.tex": [
+              "ui/icon/062000/062808_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062809_hr1.tex": [
+              "ui/icon/062000/062809_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062810_hr1.tex": [
+              "ui/icon/062000/062810_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062811_hr1.tex": [
+              "ui/icon/062000/062811_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062812_hr1.tex": [
+              "ui/icon/062000/062812_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062813_hr1.tex": [
+              "ui/icon/062000/062813_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062814_hr1.tex": [
+              "ui/icon/062000/062814_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062815_hr1.tex": [
+              "ui/icon/062000/062815_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062816_hr1.tex": [
+              "ui/icon/062000/062816_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062817_hr1.tex": [
+              "ui/icon/062000/062817_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062818_hr1.tex": [
+              "ui/icon/062000/062818_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062819_hr1.tex": [
+              "ui/icon/062000/062819_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062820_hr1.tex": [
+              "ui/icon/062000/062820_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062821_hr1.tex": [
+              "ui/icon/062000/062821_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062822_hr1.tex": [
+              "ui/icon/062000/062822_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062823_hr1.tex": [
+              "ui/icon/062000/062823_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062824_hr1.tex": [
+              "ui/icon/062000/062824_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062825_hr1.tex": [
+              "ui/icon/062000/062825_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062826_hr1.tex": [
+              "ui/icon/062000/062826_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062827_hr1.tex": [
+              "ui/icon/062000/062827_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062828_hr1.tex": [
+              "ui/icon/062000/062828_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062829_hr1.tex": [
+              "ui/icon/062000/062829_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062830_hr1.tex": [
+              "ui/icon/062000/062830_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062831_hr1.tex": [
+              "ui/icon/062000/062831_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062832_hr1.tex": [
+              "ui/icon/062000/062832_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062833_hr1.tex": [
+              "ui/icon/062000/062833_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062834_hr1.tex": [
+              "ui/icon/062000/062834_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062835_hr1.tex": [
+              "ui/icon/062000/062835_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062836_hr1.tex": [
+              "ui/icon/062000/062836_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062837_hr1.tex": [
+              "ui/icon/062000/062837_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons\\ui\\icon\\062000\\062838_hr1.tex": [
+              "ui/icon/062000/062838_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Glowing Icons w/ Different Ranged DPS Color",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062801_hr1.tex": [
+              "ui/icon/062000/062801_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062802_hr1.tex": [
+              "ui/icon/062000/062802_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062803_hr1.tex": [
+              "ui/icon/062000/062803_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062804_hr1.tex": [
+              "ui/icon/062000/062804_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062805_hr1.tex": [
+              "ui/icon/062000/062805_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062806_hr1.tex": [
+              "ui/icon/062000/062806_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062807_hr1.tex": [
+              "ui/icon/062000/062807_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062808_hr1.tex": [
+              "ui/icon/062000/062808_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062809_hr1.tex": [
+              "ui/icon/062000/062809_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062810_hr1.tex": [
+              "ui/icon/062000/062810_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062811_hr1.tex": [
+              "ui/icon/062000/062811_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062812_hr1.tex": [
+              "ui/icon/062000/062812_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062813_hr1.tex": [
+              "ui/icon/062000/062813_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062814_hr1.tex": [
+              "ui/icon/062000/062814_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062815_hr1.tex": [
+              "ui/icon/062000/062815_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062816_hr1.tex": [
+              "ui/icon/062000/062816_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062817_hr1.tex": [
+              "ui/icon/062000/062817_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062818_hr1.tex": [
+              "ui/icon/062000/062818_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062819_hr1.tex": [
+              "ui/icon/062000/062819_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062820_hr1.tex": [
+              "ui/icon/062000/062820_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062821_hr1.tex": [
+              "ui/icon/062000/062821_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062822_hr1.tex": [
+              "ui/icon/062000/062822_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062823_hr1.tex": [
+              "ui/icon/062000/062823_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062824_hr1.tex": [
+              "ui/icon/062000/062824_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062825_hr1.tex": [
+              "ui/icon/062000/062825_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062826_hr1.tex": [
+              "ui/icon/062000/062826_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062827_hr1.tex": [
+              "ui/icon/062000/062827_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062828_hr1.tex": [
+              "ui/icon/062000/062828_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062829_hr1.tex": [
+              "ui/icon/062000/062829_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062830_hr1.tex": [
+              "ui/icon/062000/062830_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062831_hr1.tex": [
+              "ui/icon/062000/062831_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062832_hr1.tex": [
+              "ui/icon/062000/062832_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062833_hr1.tex": [
+              "ui/icon/062000/062833_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062834_hr1.tex": [
+              "ui/icon/062000/062834_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062835_hr1.tex": [
+              "ui/icon/062000/062835_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062836_hr1.tex": [
+              "ui/icon/062000/062836_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062837_hr1.tex": [
+              "ui/icon/062000/062837_hr1.tex"
+            ],
+            "Macro Job Icons\\Glowing Icons with Different Ranged DPS Color\\ui\\icon\\062000\\062838_hr1.tex": [
+              "ui/icon/062000/062838_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "HUD Buttons": {
+      "GroupName": "HUD Buttons",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default (Black Style)",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\uld\\maincommand_icon_hr1.tex": [
+              "ui/uld/maincommand_icon_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Transparent Backgrounds",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Main HUD\\Transparent\\ui\\uld\\maincommand_icon_hr1.tex": [
+              "ui/uld/maincommand_icon_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Target Cast Bar": {
+      "GroupName": "Target Cast Bar",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default",
+          "OptionDesc": "",
+          "OptionFiles": {}
+        },
+        {
+          "OptionName": "Grey",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Target Castbar\\Gray\\ui\\uld\\partylist_gaugecast_hr1.tex": [
+              "ui/uld/partylist_gaugecast_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Red",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Target Castbar\\Red\\ui\\uld\\partylist_gaugecast_hr1.tex": [
+              "red/ui/uld/partylist_gaugecast_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Non-Selectted Window": {
+      "GroupName": "Non-Selectted Window",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\uld\\windowa_bgnormal_corner_hr1.tex": [
+              "ui/uld/windowa_bgnormal_corner_hr1.tex"
+            ],
+            "ui\\uld\\windowa_bgnormal_h_hr1.tex": [
+              "ui/uld/windowa_bgnormal_h_hr1.tex"
+            ],
+            "ui\\uld\\windowa_bgnormal_hv_hr1.tex": [
+              "ui/uld/windowa_bgnormal_hv_hr1.tex"
+            ],
+            "ui\\uld\\windowa_bgnormal_v_hr1.tex": [
+              "ui/uld/windowa_bgnormal_v_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Transparent Background",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Window\\Transparent Non-Selected\\ui\\uld\\windowa_bgnormal_corner_hr1.tex": [
+              "ui/uld/windowa_bgnormal_corner_hr1.tex"
+            ],
+            "Window\\Transparent Non-Selected\\ui\\uld\\windowa_bgnormal_h_hr1.tex": [
+              "ui/uld/windowa_bgnormal_h_hr1.tex"
+            ],
+            "Window\\Transparent Non-Selected\\ui\\uld\\windowa_bgnormal_hv_hr1.tex": [
+              "ui/uld/windowa_bgnormal_hv_hr1.tex"
+            ],
+            "Window\\Transparent Non-Selected\\ui\\uld\\windowa_bgnormal_v_hr1.tex": [
+              "ui/uld/windowa_bgnormal_v_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Minimal Job Gauges": {
+      "GroupName": "Minimal Job Gauges",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\uld\\jobhudsam1_hr1.tex": [
+              "ui/uld/jobhudsam1_hr1.tex"
+            ],
+            "ui\\uld\\jobhudsimple_stacka_hr1.tex": [
+              "ui/uld/jobhudsimple_stacka_hr1.tex"
+            ],
+            "ui\\uld\\jobhudsimple_stackb_hr1.tex": [
+              "ui/uld/jobhudsimple_stackb_hr1.tex"
+            ],
+            "ui\\uld\\parameter_gauge_hr1.tex": [
+              "ui/uld/parameter_gauge_hr1.tex"
+            ],
+            "ui\\uld\\parameter_gauge2_hr1.tex": [
+              "ui/uld/parameter_gauge2_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Material Frame (Black Style)",
+          "OptionDesc": "",
+          "OptionFiles": {}
+        },
+        {
+          "OptionName": "Silver Frame",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Job Gauge\\Silver Frame\\ui\\uld\\jobhudsam1_hr1.tex": [
+              "ui/uld/jobhudsam1_hr1.tex"
+            ],
+            "Job Gauge\\Silver Frame\\ui\\uld\\jobhudsimple_stacka_hr1.tex": [
+              "ui/uld/jobhudsimple_stacka_hr1.tex"
+            ],
+            "Job Gauge\\Silver Frame\\ui\\uld\\jobhudsimple_stackb_hr1.tex": [
+              "ui/uld/jobhudsimple_stackb_hr1.tex"
+            ],
+            "Job Gauge\\Silver Frame\\ui\\uld\\parameter_gauge_hr1.tex": [
+              "ui/uld/parameter_gauge_hr1.tex"
+            ],
+            "Job Gauge\\Silver Frame\\ui\\uld\\parameter_gauge2_hr1.tex": [
+              "ui/uld/parameter_gauge2_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Chatlog": {
+      "GroupName": "Chatlog",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default (Resize Hidden)",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\uld\\chatlog_hr1.tex": [
+              "ui/uld/chatlog_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Resize Icon Visible",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Chatlog\\Show Resize Icon\\ui\\uld\\chatlog_hr1.tex": [
+              "ui/uld/chatlog_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Minimap": {
+      "GroupName": "Minimap",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default (Circular Map)",
+          "OptionDesc": "This contains the default black theme",
+          "OptionFiles": {
+            "ui\\uld\\navimap_hr1.tex": [
+              "ui/uld/navimap_hr1.tex"
+            ],
+            "ui\\uld\\navimap_mask_hr1.tex": [
+              "ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Default (Square Map)",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Minimap\\[Square] Default\\ui\\uld\\navimap_hr1.tex": [
+              "ui/uld/navimap_hr1.tex"
+            ],
+            "Minimap\\[Square] Default\\ui\\uld\\navimap_mask_hr1.tex": [
+              "ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "[Circular] White Cardinal Icons",
+          "OptionDesc": "Uses a circular map with the cardinals being white except north",
+          "OptionFiles": {
+            "Minimap\\[Circular] White Cardinal Icons\\ui\\uld\\navimap_hr1.tex": [
+              "ui/uld/navimap_hr1.tex"
+            ],
+            "Minimap\\[Circular] White Cardinal Icons\\ui\\uld\\navimap_mask_hr1.tex": [
+              "ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "[Circular] No Cardinal Icons",
+          "OptionDesc": "Uses a circular map with no directional icons",
+          "OptionFiles": {
+            "Minimap\\[Circular] No Cardinal Icons\\ui\\uld\\navimap_hr1.tex": [
+              "minimap/[circular] no cardinal icons/ui/uld/navimap_hr1.tex"
+            ],
+            "Minimap\\[Circular] No Cardinal Icons\\ui\\uld\\navimap_mask_hr1.tex": [
+              "minimap/[circular] no cardinal icons/ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "[Circular] No Symbols",
+          "OptionDesc": "Uses a circular map with zero symbols",
+          "OptionFiles": {
+            "Minimap\\[Circular] No Symbols\\ui\\uld\\navimap_hr1.tex": [
+              "ui/uld/navimap_hr1.tex"
+            ],
+            "Minimap\\[Circular] No Symbols\\ui\\uld\\navimap_mask_hr1.tex": [
+              "ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "[Square] White Cardinal Icons",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Minimap\\[Square] White Cardinal Icons\\ui\\uld\\navimap_hr1.tex": [
+              "ui/uld/navimap_hr1.tex"
+            ],
+            "Minimap\\[Square] White Cardinal Icons\\ui\\uld\\navimap_mask_hr1.tex": [
+              "ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "[Square] No Cardinal Icons",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Minimap\\[Square] No Cardinal Icons\\ui\\uld\\navimap_hr1.tex": [
+              "minimap/[square] no cardinal icons/ui/uld/navimap_hr1.tex"
+            ],
+            "Minimap\\[Square] No Cardinal Icons\\ui\\uld\\navimap_mask_hr1.tex": [
+              "minimap/[square] no cardinal icons/ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "[Square] No Symbols",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Minimap\\[Square] No Symbols\\ui\\uld\\navimap_hr1.tex": [
+              "ui/uld/navimap_hr1.tex"
+            ],
+            "Minimap\\[Square] No Symbols\\ui\\uld\\navimap_mask_hr1.tex": [
+              "ui/uld/navimap_mask_hr1.tex"
+            ]
+          }
+        }
+      ]
+    },
+    "Shield Color in Party List": {
+      "GroupName": "Shield Color in Party List",
+      "SelectionType": "Single",
+      "Options": [
+        {
+          "OptionName": "Default (Yellow)",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "ui\\uld\\partylist_gaugehp_hr1.tex": [
+              "ui/uld/partylist_gaugehp_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Dark Red",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Party List\\Shield Indicator\\DarkRed\\ui\\uld\\partylist_gaugehp_hr1.tex": [
+              "ui/uld/partylist_gaugehp_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Emerald Green",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Party List\\Shield Indicator\\EmeraldGreen\\ui\\uld\\partylist_gaugehp_hr1.tex": [
+              "ui/uld/partylist_gaugehp_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Purple",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Party List\\Shield Indicator\\Purple\\ui\\uld\\partylist_gaugehp_hr1.tex": [
+              "ui/uld/partylist_gaugehp_hr1.tex"
+            ]
+          }
+        },
+        {
+          "OptionName": "Sky Blue",
+          "OptionDesc": "",
+          "OptionFiles": {
+            "Party List\\Shield Indicator\\SkyBlue\\ui\\uld\\partylist_gaugehp_hr1.tex": [
+              "ui/uld/partylist_gaugehp_hr1.tex"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
