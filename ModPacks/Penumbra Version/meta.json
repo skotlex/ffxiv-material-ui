@@ -1277,7 +1277,7 @@
       "SelectionType": "Single",
       "Options": [
         {
-          "OptionName": "Default",
+          "OptionName": "Default (Material Frame)",
           "OptionDesc": "",
           "OptionFiles": {
             "ui\\uld\\jobhudsam1_hr1.tex": [
@@ -1296,11 +1296,6 @@
               "ui/uld/parameter_gauge2_hr1.tex"
             ]
           }
-        },
-        {
-          "OptionName": "Material Frame (Black Style)",
-          "OptionDesc": "",
-          "OptionFiles": {}
         },
         {
           "OptionName": "Silver Frame",
