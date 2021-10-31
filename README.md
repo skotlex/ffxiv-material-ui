@@ -54,6 +54,10 @@ For more information, check out the discord server [here](https://discord.gg/T5s
 
 
 ## INSTALL GUIDE
+#### YouTube guide
+- Thank you `Whiskeyz` for providing this video
+  - 📹 https://www.youtube.com/watch?v=zbLWV4Y9HQI
+
 #### If the game is running before following the guide, close it.
 1. Download the latest version of the Material UI and OPTIONS from the [Releases page](https://github.com/skotlex/ffxiv-material-ui/releases/latest).
 ![down_cnts](ModPacks/Resources/Preview/down_cnts.png)
