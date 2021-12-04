@@ -1,4 +1,4 @@
-![logo](ModPacks/Resources/Preview/github_logo_new.png)
+![logo](ModPacks/Resources/Preview/github_logo_new_ew.png)
 
 ## FFXIV MATERIAL UI
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/skotlex/ffxiv-material-ui) ![GitHub all releases](https://img.shields.io/github/downloads/skotlex/ffxiv-material-ui/total) ![GitHub release (latest by SemVer including pre-releases)](https://img.shields.io/github/downloads-pre/skotlex/ffxiv-material-ui/latest/total) [![GitHub license](https://img.shields.io/github/license/skotlex/ffxiv-material-ui)](https://github.com/skotlex/ffxiv-material-ui/blob/master/LICENSE) [![Discord Shield](https://discordapp.com/api/guilds/838030043518599228/widget.png?style=shield)](https://discord.gg/T5sWUpgNPD)
