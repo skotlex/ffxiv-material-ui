@@ -53,8 +53,11 @@ https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.js
 
 4. Re-login or visit the Aesthetician and quit.
 
-#### Video guide
+<details><summary>Click for video guide (Thanks to @Sevii and @Meconate)</summary>
+
 https://user-images.githubusercontent.com/31692408/146950911-2d721e43-42a0-4466-b556-8796a61c4c93.mp4
+
+</details>
 
 ## IN-GAME SETTINGS
 If mods is not applied when you start the game, you have to change the in-game setting.
