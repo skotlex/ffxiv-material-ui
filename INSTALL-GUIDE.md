@@ -1,4 +1,4 @@
-## INSTALL GUIDE
+## CONTENTS - INSTALL GUIDE
 1. [TEXTOOLS](#textools)
 2. [PENUMBRA](#penumbra)
 3. [IN-GAME SETTINGS](#in-game-settings)
