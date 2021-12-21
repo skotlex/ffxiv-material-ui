@@ -54,57 +54,11 @@ For more information, check out the discord server [here](https://discord.gg/T5s
 
 
 ## INSTALL GUIDE
-#### YouTube guide
-- Thank you `Whiskeyz` for providing this video
-  - 📹 https://www.youtube.com/watch?v=zbLWV4Y9HQI
-
-#### If the game is running before following the guide, close it.
-1. Download the latest version of the Material UI and OPTIONS from the [Releases page](https://github.com/skotlex/ffxiv-material-ui/releases/latest).
-![down_cnts](ModPacks/Resources/Preview/down_cnts.png)
-2. Unzip the downloaded compressed files to somewhere you can find them.  
-    - If you already have TexTools installed skip to `step 5`
-3. Download the latest version of the `Install_TexTools.exe` file from [here](https://github.com/TexTools/FFXIV_TexTools_UI/releases/latest).
-4. Install and run the program.
-    - If you do not have the latest version of .NET you will not be able to open the program and will get an error. If this happens download the latest version of .NET here  [.NET downloads](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
-    - Try opening the program again.
-    - For additional troubleshooting, join their discord [here](https://discord.gg/ffxivtextools).
-5. Click `Help` → `Backup Index Files` menu.
-    - This will create a backup, so that if you want to revert the changes you can clear all of them by clicking `Help` → `Start Over`.
-6. Click `Mods` → `Import Mod Packs`
-7. Select `Material 4K-UI BLACK (version).ttmp2` and hit open button.
-    - If you want to apply additional OPTIONS, select the OPTIONS ttmp2 in the same way as `step 6 to 7`
-    - Any mods containing conflicting textures will be loaded in the order that they were installed meaning installing an option __before__ the main file will not work as expected. It is generally best to install mods one by one instead of all at once
-8. All of the textures will now be loaded next time you launch FFXIV.
-
-## IN-GAME SETTING
-If mods is not applied when you start the game, you have to change the in-game setting.
-#### Set 4K UI resolution
-1. Click `ESC key on keyboard` → `System Configuration` → `Graphic Settings` tab → `UI Resolution Settings`
-2. Choose the option: `High (4k)`
-    - This is an in-game setting that does NOT require a 4k monitor.
-    - It should makes the UI assets render at a higher resolution if you do have a 4k monitor.
-3. Reset the game.
-
-<details><summary>Click for visual reference</summary>
-
-![guide1](ModPacks/Resources/Preview/guide1.png)
-
-</details>
-
-#### Set color scheme
-1. Click `ESC key on keyboard` → `System Configuration` → `Theme Settings`
-2. Choose the option: `Dark`
-3. Reset the game.
-
-<details>
-<summary>Click for visual reference</summary>
-
-![guide2](ModPacks/Resources/Preview/guide2.png)
-
-</details>
+Please refer to a separate [GUIDE page](INSTALL-GUIDE.md)\
+**Installation methods include `TexTools` and `Penumbra`, and I recommend Penumbra if you are not an expert or want to use mods more conveniently and safely.**
 
 ## OPTIONS
-If you download and unzip the OPTIONS.zip file of [INSTALL GUIDE](#install-guide), there is a preview(.png) file in each folder. Look at the image and if there's anything you like, apply it.
+If you download and unzip the OPTIONS.zip file of [INSTALL GUIDE](INSTALL-GUIDE.md/#textools), there is a preview(.png) file in each folder. Look at the image and if there's anything you like, apply it.
 
 ## FAQ
 Please refer to a separate page that collects questions that people ask often. [FAQ page](FAQ.md)\
