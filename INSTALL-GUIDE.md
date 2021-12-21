@@ -1,6 +1,6 @@
 ## CONTENTS
 1. [TEXTOOLS](#textools)
-2. [PENUMBRA](#penumbra)
+2. [PENUMBRA](#penumbra) (RECOMMEND)
 3. [IN-GAME SETTINGS](#in-game-settings)
 
 ## TEXTOOLS
