@@ -52,6 +52,9 @@ Please refer to the following link to explain the principle of gauge bar color. 
 ### 🔖 An error appears that the folder does not have access or write rights.
 When you specify a path in the Penumbra `settings` tab, not make the Penumbra `Root Folder` in the ffxiv game's folder, but instead somewhere close to a drive, like `C:\XIVMods`
 
+### 🔖 I Applied mods, but the in-game doesn't change.
+Please refer [IN-GAME SETTINGS](#in-game-settings)
+
 ## IN-GAME SETTINGS
 If mods is not applied when you start the game, you have to change the in-game setting.
 #### Set 4K UI resolution
