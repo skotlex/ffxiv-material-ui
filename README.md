@@ -8,7 +8,6 @@
 2. [INTRO](#intro)
 3. [PREVIEWS](#previews)
 4. [INSTALL GUIDE](#install-guide)
-5. [IN-GAME SETTING](#in-game-setting)
 6. [OPTIONS](#options)
 7. [FAQ](#faq)
 8. [SPECIAL THANKS](#special-thanks)
