@@ -11,7 +11,7 @@
     - If you already have TexTools installed skip to `step 5`
 3. Download the latest version of the `Install_TexTools.exe` file from [here](https://github.com/TexTools/FFXIV_TexTools_UI/releases/latest).
 4. Install and run the program.
-    - If you do not have the latest version of .NET you will not be able to open the program and will get an error. If this happens download the latest version of .NET here  [.NET downloads](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
+    - If you do not have the latest version of .NET you will not be able to open the program and will get an error. If this happens download the latest version of .NET here  [.NET downloads](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
     - Try opening the program again.
     - For additional troubleshooting, join their discord [here](https://discord.gg/ffxivtextools).
 5. Click `Help` → `Backup Index Files` menu.
