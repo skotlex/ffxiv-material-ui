@@ -38,7 +38,7 @@ Material UI replaces FFXIV's built-in theme (dark-theme)
 There are two kinds, the concepts for each theme are as follows:
 
 * **Black**: Targeting modern dark color, Edged UI
-* **Discord**: Unsupported until further notice. Please refer to [Issue #232](https://github.com/skotlex/ffxiv-material-ui/issues/232) for more information.
+* **Discord**: Announcement of the discontinuation of the development of the Discord theme https://github.com/skotlex/ffxiv-material-ui/issues/314
 
 ## PREVIEWS
 #### MAIN MODS (BLACK)
